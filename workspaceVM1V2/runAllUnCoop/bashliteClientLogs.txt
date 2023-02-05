@@ -1,0 +1,302 @@
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+buf: REPORT 192.168.1.95:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+buf: REPORT 192.168.1.95:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+buf: REPORT 192.168.1.95:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+buf: REPORT 192.168.1.95:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+buf: REPORT 192.168.1.95:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+buf: REPORT 192.168.1.95:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+buf: Case 110
+
+after first sleep
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+buf: REPORT 192.168.1.95:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+buf: REPORT 192.168.1.95:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+Got virus message
+after second sleep, should be restarted
+restart
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+after first sleep
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+Got virus message

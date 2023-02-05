@@ -1,0 +1,6 @@
+killall startBashAndSendToDepClien.sh
+killall clientStartScanner
+killall sendPacketsToServer.sh
+killall python
+killall python3
+killall bash

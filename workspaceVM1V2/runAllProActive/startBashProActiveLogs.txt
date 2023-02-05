@@ -1,0 +1,919 @@
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 14-27-24
+108
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 14-29-12
+100
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 14-30-52
+120
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 14-32-53
+93
+should be restarted
+MAC: 08:00:27:D1:65:94
+bBash started at:  2023-02-04 14-34-26
+84
+uf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 14-35-50
+100
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 14-37-30
+71
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 14-38-41
+61
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 14-39-42
+119
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 14-41-41
+60
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 14-42-41
+83
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 00:00:00:00:00:00
+Bash started at:  2023-02-04 14-44-04
+65
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 14-45-09
+61
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 14-46-10
+99
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 14-47-49
+71
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 14-49-00
+97
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 14-50-37
+97
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 14-52-14
+112
+should be restarted
+MAC: 00:00:00:00:00:00
+Bash started at:  2023-02-04 14-54-06
+102
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 14-55-48
+63
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 14-56-51
+96
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 14-58-27
+106
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 15-00-13
+93
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 15-01-46
+82
+should be restarted
+MAC: 00:00:00:00:00:00
+Bash started at:  2023-02-04 15-03-08
+66
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-04-14
+97
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 15-05-52
+64
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-06-56
+74
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-08-10
+70
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-09-20
+106
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 00:00:00:00:00:00
+Bash started at:  2023-02-04 15-11-06
+98
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+buf: Case 110
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-12-44
+108
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-14-32
+71
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Time over, but bashlite is still running
+Time over, but bashlite is still running
+Time over, but bashlite is still running
+Time over, but bashlite is still running
+should be restarted
+MAC: 00:00:00:00:00:00
+Bash started at:  2023-02-04 15-18-32
+61
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+Time over, but bashlite is still running
+Time over, but bashlite is still running
+should be restarted
+MAC: 00:00:00:00:00:00
+Bash started at:  2023-02-04 15-19-43
+79
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 15-21-02
+111
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-22-53
+75
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-24-08
+75
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 15-25-23
+99
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-27-02
+63
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 15-28-05
+83
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-29-28
+113
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTBash started at:  2023-02-04 15-31-21
+64
+heLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 15-32-25
+73
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLeBash started at:  2023-02-04 15-33-38
+97
+lz Function
+
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-35-15
+68
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-36-23
+97
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-38-00
+70
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-39-10
+69
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 15-40-19
+76
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 15-41-36
+75
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartThBash started at:  2023-02-04 15-42-51
+83
+eLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 15-44-14
+99
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-45-53
+111
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-47-44
+94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-49-18
+67
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+Bash started at:  2023-02-04 15-50-25
+68
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 00:00:00:00:00:00
+Bash started at:  2023-02-04 15-51-33
+94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-53-07
+63
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+buf: Case 110
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-54-10
+97
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-55-47
+70
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 15-56-57
+94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 00:00:00:00:00:00
+Bash started at:  2023-02-04 15-58-31
+93
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 16-00-04
+74
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 16-01-19
+118
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 16-03-17
+97
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 16-04-54
+74
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+buf: Case 110
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 16-06-08
+65
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 16-07-13
+106
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 16-08-59
+92
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 00:00:00:00:00:00
+Bash started at:  2023-02-04 16-10-31
+91
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+Bash started at:  2023-02-04 16-12-02
+92
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 00:00:00:00:00:00
+Bash started at:  2023-02-04 16-13-34
+94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+buf: Case 110
+
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 16-15-08
+89
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 16-16-37
+65
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 16-17-42
+84
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 16-19-06
+109
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 16-20-55
+111
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 16-22-46
+103
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 16-24-29
+119
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 16-26-28
+119
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 16-28-28
+78
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 16-29-46
+72
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-04 16-30-58
+98
+should be restarted
+MAC: 00:00:00:00:00:00
+Bash started at:  2023-02-04 16-32-36
+69
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 16-33-45
+86
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+Bash started at:  2023-02-04 16-35-11
+80
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 00:00:00:00:00:00
+Bash started at:  2023-02-04 16-36-31
+63
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 00:00:00:00:00:00
+Bash started at:  2023-02-04 16-37-34
+89
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-04 16-39-03
+77
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Time over, but bashlite is still running
+should be restarted
+MAC: 00:00:00:00:00:00
+Bash started at:  2023-02-04 18-39-33
+72
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-05 10-30-04
+96
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+buf: PING
+
+recv: 
+recv: 
+buf: PONG VOM MAIN
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-05 10-31-40
+119
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-05 10-33-40
+64
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-05 10-34-44
+97
+should be restarted
+MAC: 00:00:00:00:00:00
+Bash started at:  2023-02-05 10-36-21
+118
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+should be restarted
+MAC: 00:00:00:00:00:00
+Bash started at:  2023-02-05 10-38-19
+114
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-05 10-40-13
+111
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-05 10-42-05
+84
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+Bash started at:  2023-02-05 10-43-29
+72
+buf: REPORT 192.168.1.23:MalwareTwo:123
+
+recv: 
+buf: PONG VOM MAIN
+
+should be restarted
+Bash started at:  2023-02-05 10-44-41
+82
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+buf: Case 110
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+buf: BUILD UNKN
+
+buf: StartTheLelz Function
+
+buBash started at:  2023-02-05 10-46-04
+112
+f: Case 110
+
+should be restarted
+MAC: 08:00:27:D1:65:94
+Bash started at:  2023-02-05 10-47-56
+117

@@ -1,0 +1,31 @@
+#!/usr/bin/expect
+
+set timeout 30
+#First argument is assigned to the variable name
+set name [lindex $argv 0]
+set user [lindex $argv 1]
+
+set password [lindex $argv 2]
+set serverIP [lindex $argv 3]
+spawn telnet $name 23
+expect "raspberry login:" 
+send "$user\n"
+expect "Password:"
+
+send "$password\n"
+
+send "netcat -w 5 -q 5 $serverIP 9899 > clientP2P\n"
+exec echo netcat -w 5 -q 5 $serverIP 9899
+sleep 8
+send "\n"
+send "sudo chmod +x clientP2P\n"
+expect "password for" {send "$password\n"}
+sleep 4
+send "./clientP2P\n"
+sleep 1
+send "exit\r"
+sleep 1
+exec echo -ne "\n"
+exit 1
+#exec mkdir trytry
+#interact

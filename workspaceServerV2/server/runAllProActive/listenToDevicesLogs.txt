@@ -1,0 +1,888 @@
+listenToDevices was called
+server: <socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+Connected to 192.168.1.88
+The virus was found on IP address:  192.168.1.88
+send called
+this is the message: Virus found 192.168.1.88
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.28
+The virus was found on IP address:  192.168.1.28
+send called
+this is the message: Virus found 192.168.1.28
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.34
+The virus was found on IP address:  192.168.1.34
+send called
+this is the message: Virus found 192.168.1.34
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.65
+The virus was found on IP address:  192.168.1.65
+send called
+this is the message: Virus found 192.168.1.65
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.82
+The virus was found on IP address:  192.168.1.82
+send called
+this is the message: Virus found 192.168.1.82
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.53
+The virus was found on IP address:  192.168.1.53
+send called
+this is the message: Virus found 192.168.1.53
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.82
+The virus was found on IP address:  192.168.1.82
+send called
+this is the message: Virus found 192.168.1.82
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.44
+The virus was found on IP address:  192.168.1.44
+send called
+this is the message: Virus found 192.168.1.44
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.52
+The virus was found on IP address:  192.168.1.52
+send called
+this is the message: Virus found 192.168.1.52
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.7
+The virus was found on IP address:  192.168.1.7
+send called
+this is the message: Virus found 192.168.1.7
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.26
+The virus was found on IP address:  192.168.1.26
+send called
+this is the message: Virus found 192.168.1.26
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.37
+The virus was found on IP address:  192.168.1.37
+send called
+this is the message: Virus found 192.168.1.37
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.62
+The virus was found on IP address:  192.168.1.62
+send called
+this is the message: Virus found 192.168.1.62
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.27
+The virus was found on IP address:  192.168.1.27
+send called
+this is the message: Virus found 192.168.1.27
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.26
+The virus was found on IP address:  192.168.1.26
+send called
+this is the message: Virus found 192.168.1.26
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.56
+The virus was found on IP address:  192.168.1.56
+send called
+this is the message: Virus found 192.168.1.56
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.44
+The virus was found on IP address:  192.168.1.44
+send called
+this is the message: Virus found 192.168.1.44
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.34
+The virus was found on IP address:  192.168.1.34
+send called
+this is the message: Virus found 192.168.1.34
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.59
+The virus was found on IP address:  192.168.1.59
+send called
+this is the message: Virus found 192.168.1.59
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.31
+The virus was found on IP address:  192.168.1.31
+send called
+this is the message: Virus found 192.168.1.31
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.15
+The virus was found on IP address:  192.168.1.15
+send called
+this is the message: Virus found 192.168.1.15
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.2
+The virus was found on IP address:  192.168.1.2
+send called
+this is the message: Virus found 192.168.1.2
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.78
+The virus was found on IP address:  192.168.1.78
+send called
+this is the message: Virus found 192.168.1.78
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.75
+The virus was found on IP address:  192.168.1.75
+send called
+this is the message: Virus found 192.168.1.75
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.41
+The virus was found on IP address:  192.168.1.41
+send called
+this is the message: Virus found 192.168.1.41
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.18
+The virus was found on IP address:  192.168.1.18
+send called
+this is the message: Virus found 192.168.1.18
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.46
+The virus was found on IP address:  192.168.1.46
+send called
+this is the message: Virus found 192.168.1.46
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.61
+The virus was found on IP address:  192.168.1.61
+send called
+this is the message: Virus found 192.168.1.61
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.32
+The virus was found on IP address:  192.168.1.32
+send called
+this is the message: Virus found 192.168.1.32
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.4
+The virus was found on IP address:  192.168.1.4
+send called
+this is the message: Virus found 192.168.1.4
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.90
+The virus was found on IP address:  192.168.1.90
+send called
+this is the message: Virus found 192.168.1.90
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.43
+The virus was found on IP address:  192.168.1.43
+send called
+this is the message: Virus found 192.168.1.43
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.89
+The virus was found on IP address:  192.168.1.89
+send called
+this is the message: Virus found 192.168.1.89
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.75
+The virus was found on IP address:  192.168.1.75
+send called
+this is the message: Virus found 192.168.1.75
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.27
+The virus was found on IP address:  192.168.1.27
+send called
+this is the message: Virus found 192.168.1.27
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.89
+The virus was found on IP address:  192.168.1.89
+send called
+this is the message: Virus found 192.168.1.89
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.49
+The virus was found on IP address:  192.168.1.49
+send called
+this is the message: Virus found 192.168.1.49
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.4
+The virus was found on IP address:  192.168.1.4
+send called
+this is the message: Virus found 192.168.1.4
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.75
+The virus was found on IP address:  192.168.1.75
+send called
+this is the message: Virus found 192.168.1.75
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.61
+The virus was found on IP address:  192.168.1.61
+send called
+this is the message: Virus found 192.168.1.61
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.27
+The virus was found on IP address:  192.168.1.27
+send called
+this is the message: Virus found 192.168.1.27
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.89
+The virus was found on IP address:  192.168.1.89
+send called
+this is the message: Virus found 192.168.1.89
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.47
+The virus was found on IP address:  192.168.1.47
+send called
+this is the message: Virus found 192.168.1.47
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.41
+The virus was found on IP address:  192.168.1.41
+send called
+this is the message: Virus found 192.168.1.41
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.65
+The virus was found on IP address:  192.168.1.65
+send called
+this is the message: Virus found 192.168.1.65
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.20
+The virus was found on IP address:  192.168.1.20
+send called
+this is the message: Virus found 192.168.1.20
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.87
+The virus was found on IP address:  192.168.1.87
+send called
+this is the message: Virus found 192.168.1.87
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.35
+The virus was found on IP address:  192.168.1.35
+send called
+this is the message: Virus found 192.168.1.35
+Connected to 192.168.1.35
+The virus was found on IP address:  192.168.1.35
+send called
+this is the message: Virus found 192.168.1.35
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.72
+The virus was found on IP address:  192.168.1.72
+send called
+this is the message: Virus found 192.168.1.72
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.33
+The virus was found on IP address:  192.168.1.33
+send called
+this is the message: Virus found 192.168.1.33
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.28
+The virus was found on IP address:  192.168.1.28
+send called
+this is the message: Virus found 192.168.1.28
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.82
+The virus was found on IP address:  192.168.1.82
+send called
+this is the message: Virus found 192.168.1.82
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.5
+The virus was found on IP address:  192.168.1.5
+send called
+this is the message: Virus found 192.168.1.5
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.28
+The virus was found on IP address:  192.168.1.28
+send called
+this is the message: Virus found 192.168.1.28
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.3
+The virus was found on IP address:  192.168.1.3
+send called
+this is the message: Virus found 192.168.1.3
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.31
+The virus was found on IP address:  192.168.1.31
+send called
+this is the message: Virus found 192.168.1.31
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.79
+The virus was found on IP address:  192.168.1.79
+send called
+this is the message: Virus found 192.168.1.79
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.32
+The virus was found on IP address:  192.168.1.32
+send called
+this is the message: Virus found 192.168.1.32
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.72
+The virus was found on IP address:  192.168.1.72
+send called
+this is the message: Virus found 192.168.1.72
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.61
+The virus was found on IP address:  192.168.1.61
+send called
+this is the message: Virus found 192.168.1.61
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.48
+The virus was found on IP address:  192.168.1.48
+send called
+this is the message: Virus found 192.168.1.48
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.44
+The virus was found on IP address:  192.168.1.44
+send called
+this is the message: Virus found 192.168.1.44
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.7
+The virus was found on IP address:  192.168.1.7
+send called
+this is the message: Virus found 192.168.1.7
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.84
+The virus was found on IP address:  192.168.1.84
+send called
+this is the message: Virus found 192.168.1.84
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.86
+The virus was found on IP address:  192.168.1.86
+send called
+this is the message: Virus found 192.168.1.86
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.41
+The virus was found on IP address:  192.168.1.41
+send called
+this is the message: Virus found 192.168.1.41
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.48
+The virus was found on IP address:  192.168.1.48
+send called
+this is the message: Virus found 192.168.1.48
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.66
+The virus was found on IP address:  192.168.1.66
+send called
+this is the message: Virus found 192.168.1.66
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.47
+The virus was found on IP address:  192.168.1.47
+send called
+this is the message: Virus found 192.168.1.47
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.19
+The virus was found on IP address:  192.168.1.19
+send called
+this is the message: Virus found 192.168.1.19
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.67
+The virus was found on IP address:  192.168.1.67
+send called
+this is the message: Virus found 192.168.1.67
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.21
+The virus was found on IP address:  192.168.1.21
+send called
+this is the message: Virus found 192.168.1.21
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.13
+The virus was found on IP address:  192.168.1.13
+send called
+this is the message: Virus found 192.168.1.13
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.48
+The virus was found on IP address:  192.168.1.48
+send called
+this is the message: Virus found 192.168.1.48
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.81
+The virus was found on IP address:  192.168.1.81
+send called
+this is the message: Virus found 192.168.1.81
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.86
+The virus was found on IP address:  192.168.1.86
+send called
+this is the message: Virus found 192.168.1.86
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.48
+The virus was found on IP address:  192.168.1.48
+send called
+this is the message: Virus found 192.168.1.48
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.46
+The virus was found on IP address:  192.168.1.46
+send called
+this is the message: Virus found 192.168.1.46
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.73
+The virus was found on IP address:  192.168.1.73
+send called
+this is the message: Virus found 192.168.1.73
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.25
+The virus was found on IP address:  192.168.1.25
+send called
+this is the message: Virus found 192.168.1.25
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.74
+The virus was found on IP address:  192.168.1.74
+send called
+this is the message: Virus found 192.168.1.74
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.5
+The virus was found on IP address:  192.168.1.5
+send called
+this is the message: Virus found 192.168.1.5
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.75
+The virus was found on IP address:  192.168.1.75
+send called
+this is the message: Virus found 192.168.1.75
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.17
+The virus was found on IP address:  192.168.1.17
+send called
+this is the message: Virus found 192.168.1.17
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.80
+The virus was found on IP address:  192.168.1.80
+send called
+this is the message: Virus found 192.168.1.80
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.34
+The virus was found on IP address:  192.168.1.34
+send called
+this is the message: Virus found 192.168.1.34
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.71
+The virus was found on IP address:  192.168.1.71
+send called
+this is the message: Virus found 192.168.1.71
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.35
+The virus was found on IP address:  192.168.1.35
+send called
+this is the message: Virus found 192.168.1.35
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.4
+The virus was found on IP address:  192.168.1.4
+send called
+this is the message: Virus found 192.168.1.4
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.89
+The virus was found on IP address:  192.168.1.89
+send called
+this is the message: Virus found 192.168.1.89
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.79
+The virus was found on IP address:  192.168.1.79
+send called
+this is the message: Virus found 192.168.1.79
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.55
+The virus was found on IP address:  192.168.1.55
+send called
+this is the message: Virus found 192.168.1.55
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.72
+The virus was found on IP address:  192.168.1.72
+send called
+this is the message: Virus found 192.168.1.72
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.47
+The virus was found on IP address:  192.168.1.47
+send called
+this is the message: Virus found 192.168.1.47
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.45
+The virus was found on IP address:  192.168.1.45
+send called
+this is the message: Virus found 192.168.1.45
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.65
+The virus was found on IP address:  192.168.1.65
+send called
+this is the message: Virus found 192.168.1.65
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.8
+The virus was found on IP address:  192.168.1.8
+send called
+this is the message: Virus found 192.168.1.8
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.37
+The virus was found on IP address:  192.168.1.37
+send called
+this is the message: Virus found 192.168.1.37
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.17
+The virus was found on IP address:  192.168.1.17
+send called
+this is the message: Virus found 192.168.1.17
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.5
+The virus was found on IP address:  192.168.1.5
+send called
+this is the message: Virus found 192.168.1.5
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.81
+The virus was found on IP address:  192.168.1.81
+send called
+this is the message: Virus found 192.168.1.81
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.31
+The virus was found on IP address:  192.168.1.31
+send called
+this is the message: Virus found 192.168.1.31
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.65
+The virus was found on IP address:  192.168.1.65
+send called
+this is the message: Virus found 192.168.1.65
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.15
+The virus was found on IP address:  192.168.1.15
+send called
+this is the message: Virus found 192.168.1.15
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.20
+The virus was found on IP address:  192.168.1.20
+send called
+this is the message: Virus found 192.168.1.20
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.3
+The virus was found on IP address:  192.168.1.3
+send called
+this is the message: Virus found 192.168.1.3
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.46
+The virus was found on IP address:  192.168.1.46
+send called
+this is the message: Virus found 192.168.1.46
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.28
+The virus was found on IP address:  192.168.1.28
+send called
+this is the message: Virus found 192.168.1.28
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.55
+The virus was found on IP address:  192.168.1.55
+send called
+this is the message: Virus found 192.168.1.55
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.18
+The virus was found on IP address:  192.168.1.18
+send called
+this is the message: Virus found 192.168.1.18
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.8
+The virus was found on IP address:  192.168.1.8
+send called
+this is the message: Virus found 192.168.1.8
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.34
+The virus was found on IP address:  192.168.1.34
+send called
+this is the message: Virus found 192.168.1.34
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.85
+The virus was found on IP address:  192.168.1.85
+send called
+this is the message: Virus found 192.168.1.85
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.36
+The virus was found on IP address:  192.168.1.36
+send called
+this is the message: Virus found 192.168.1.36
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.82
+The virus was found on IP address:  192.168.1.82
+send called
+this is the message: Virus found 192.168.1.82
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.49
+The virus was found on IP address:  192.168.1.49
+send called
+this is the message: Virus found 192.168.1.49
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.87
+The virus was found on IP address:  192.168.1.87
+send called
+this is the message: Virus found 192.168.1.87
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.81
+The virus was found on IP address:  192.168.1.81
+send called
+this is the message: Virus found 192.168.1.81
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.31
+The virus was found on IP address:  192.168.1.31
+send called
+this is the message: Virus found 192.168.1.31
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.74
+The virus was found on IP address:  192.168.1.74
+send called
+this is the message: Virus found 192.168.1.74
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.8
+The virus was found on IP address:  192.168.1.8
+send called
+this is the message: Virus found 192.168.1.8
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.3
+The virus was found on IP address:  192.168.1.3
+send called
+this is the message: Virus found 192.168.1.3
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.74
+The virus was found on IP address:  192.168.1.74
+send called
+this is the message: Virus found 192.168.1.74
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.19
+The virus was found on IP address:  192.168.1.19
+send called
+this is the message: Virus found 192.168.1.19
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.47
+The virus was found on IP address:  192.168.1.47
+send called
+this is the message: Virus found 192.168.1.47
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.79
+The virus was found on IP address:  192.168.1.79
+send called
+this is the message: Virus found 192.168.1.79
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.85
+The virus was found on IP address:  192.168.1.85
+send called
+this is the message: Virus found 192.168.1.85
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.37
+The virus was found on IP address:  192.168.1.37
+send called
+this is the message: Virus found 192.168.1.37
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.28
+The virus was found on IP address:  192.168.1.28
+send called
+this is the message: Virus found 192.168.1.28
+Connected to 192.168.1.51
+The virus was found on IP address:  192.168.1.51
+send called
+this is the message: Virus found 192.168.1.51
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.51
+The virus was found on IP address:  192.168.1.51
+send called
+this is the message: Virus found 192.168.1.51
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.14
+The virus was found on IP address:  192.168.1.14
+send called
+this is the message: Virus found 192.168.1.14
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.89
+The virus was found on IP address:  192.168.1.89
+send called
+this is the message: Virus found 192.168.1.89
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.39
+The virus was found on IP address:  192.168.1.39
+send called
+this is the message: Virus found 192.168.1.39
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.14
+The virus was found on IP address:  192.168.1.14
+send called
+this is the message: Virus found 192.168.1.14
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.26
+The virus was found on IP address:  192.168.1.26
+send called
+this is the message: Virus found 192.168.1.26
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.22
+The virus was found on IP address:  192.168.1.22
+send called
+this is the message: Virus found 192.168.1.22
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.2
+The virus was found on IP address:  192.168.1.2
+send called
+this is the message: Virus found 192.168.1.2
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.31
+The virus was found on IP address:  192.168.1.31
+send called
+this is the message: Virus found 192.168.1.31
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.86
+The virus was found on IP address:  192.168.1.86
+send called
+this is the message: Virus found 192.168.1.86
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.51
+The virus was found on IP address:  192.168.1.51
+send called
+this is the message: Virus found 192.168.1.51
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.68
+The virus was found on IP address:  192.168.1.68
+send called
+this is the message: Virus found 192.168.1.68
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.74
+The virus was found on IP address:  192.168.1.74
+send called
+this is the message: Virus found 192.168.1.74
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.63
+The virus was found on IP address:  192.168.1.63
+send called
+this is the message: Virus found 192.168.1.63
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.61
+The virus was found on IP address:  192.168.1.61
+send called
+this is the message: Virus found 192.168.1.61
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.8
+The virus was found on IP address:  192.168.1.8
+send called
+this is the message: Virus found 192.168.1.8
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.78
+The virus was found on IP address:  192.168.1.78
+send called
+this is the message: Virus found 192.168.1.78
