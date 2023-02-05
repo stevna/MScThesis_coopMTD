@@ -1,0 +1,1912 @@
+2022-12-18 21:09:53 PYTHON: Connected to ('192.168.1.10', 42640) 
+2022-12-18 21:09:53 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.38 
+2022-12-18 21:09:53 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2022-12-18 21:09:53 PYTHON: There was no Bashlite Client to kill 
+2022-12-18 21:10:09 PYTHON: The change to the IP 192.168.1.38 worked. 
+
+ 
+2022-12-18 21:10:48 PYTHON: Start listening to deployer Server  
+2022-12-18 21:46:30 PYTHON: Connected to ('192.168.1.10', 52110) 
+2022-12-18 21:46:30 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.89 
+2022-12-18 21:46:30 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2022-12-18 21:46:30 PYTHON: There was no Bashlite Client to kill 
+2022-12-18 21:46:46 PYTHON: The change to the IP 192.168.1.89 worked. 
+
+ 
+2022-12-18 21:47:25 PYTHON: Start listening to deployer Server  
+2022-12-18 21:52:25 PYTHON: Connected to ('192.168.1.10', 34690) 
+2022-12-18 21:52:25 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.8 
+2022-12-18 21:52:25 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2022-12-18 21:52:25 PYTHON: There was no Bashlite Client to kill 
+2022-12-18 21:52:41 PYTHON: The change to the IP 192.168.1.8 worked. 
+
+ 
+2022-12-18 21:53:20 PYTHON: Start listening to deployer Server  
+2022-12-18 22:02:12 PYTHON: Start listening to deployer Server  
+2022-12-18 22:03:30 PYTHON: Connected to ('192.168.1.10', 36388) 
+2022-12-18 22:03:30 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 11port 
+2022-12-18 22:03:30 PYTHON: Port 11port is not yet used on this system. 
+2022-12-18 22:03:30 PYTHON: Trying to kill the telnet process 
+2022-12-18 22:03:39 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 22:03:45 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 22:03:51 PYTHON: The port change was initiated. 
+2022-12-18 22:03:51 PYTHON: The changed port was found in services 
+2022-12-18 22:04:00 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 22:04:00 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 22:04:00 PYTHON: Socket closed 
+2022-12-18 22-04-00 SHELL: Sleeping for 35 seconds
+2022-12-18 22:04:39 PYTHON: Start listening to deployer Server  
+2022-12-18 22-04-43 SHELL: Went from port 11port back to port 23
+
+
+2022-12-18 22:33:04 PYTHON: Start listening to deployer Server  
+2022-12-18 22:33:51 PYTHON: Connected to ('192.168.1.10', 46898) 
+2022-12-18 22:33:52 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2589 
+2022-12-18 22:33:52 PYTHON: Port 2589 is not yet used on this system. 
+2022-12-18 22:33:52 PYTHON: Trying to kill the telnet process 
+2022-12-18 22:34:01 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 22:34:07 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 22:34:13 PYTHON: The port change was initiated. 
+2022-12-18 22:34:13 PYTHON: The changed port was found in services 
+2022-12-18 22:34:22 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 22:34:22 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 22:34:22 PYTHON: Socket closed 
+2022-12-18 22-34-22 SHELL: Sleeping for port:20 seconds
+2022-12-18 22-34-28 SHELL: Went from port 2589 back to port 23
+
+
+2022-12-18 22:43:48 PYTHON: Start listening to deployer Server  
+2022-12-18 22:44:13 PYTHON: Connected to ('192.168.1.10', 54064) 
+2022-12-18 22:44:13 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2589 
+2022-12-18 22:44:13 PYTHON: Port 2589 is not yet used on this system. 
+2022-12-18 22:44:14 PYTHON: Trying to kill the telnet process 
+2022-12-18 22:44:23 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 22:44:29 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 22:44:35 PYTHON: The port change was initiated. 
+2022-12-18 22:44:35 PYTHON: The changed port was found in services 
+2022-12-18 22:44:44 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 22:44:44 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 22:44:44 PYTHON: Socket closed 
+2022-12-18 22-44-44 SHELL: Sleeping for 35 seconds
+2022-12-18 22:45:23 PYTHON: Start listening to deployer Server  
+2022-12-18 22-45-27 SHELL: Went from port 2589 back to port 23
+
+
+2022-12-18 22:46:10 PYTHON: Connected to ('192.168.1.10', 40644) 
+2022-12-18 22:46:10 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2589 
+2022-12-18 22:46:10 PYTHON: Port 2589 is not yet used on this system. 
+2022-12-18 22:46:10 PYTHON: Trying to kill the telnet process 
+2022-12-18 22:46:19 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 22:46:25 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 22:46:31 PYTHON: The port change was initiated. 
+2022-12-18 22:46:31 PYTHON: The changed port was found in services 
+2022-12-18 22:46:40 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 22:46:40 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 22:46:40 PYTHON: Socket closed 
+2022-12-18 22-46-40 SHELL: Sleeping for 35 seconds
+2022-12-18 22:47:49 PYTHON: Start listening to deployer Server  
+2022-12-18 22:47:55 PYTHON: Connected to ('192.168.1.10', 56442) 
+2022-12-18 22:47:55 PYTHON: The port tries exceeded the maximum ports. No port was available on this machine, please provide more ports in the Config file of the Deployer Server. 
+2022-12-18 22:47:55 PYTHON: Socket closed
+
+ 
+2022-12-18 22:48:35 PYTHON: Start listening to deployer Server  
+2022-12-18 22:49:02 PYTHON: Connected to ('192.168.1.10', 44320) 
+2022-12-18 22:49:02 PYTHON: The port tries exceeded the maximum ports. No port was available on this machine, please provide more ports in the Config file of the Deployer Server. 
+2022-12-18 22:49:02 PYTHON: Socket closed
+
+ 
+2022-12-18 22:49:41 PYTHON: Start listening to deployer Server  
+2022-12-18 22:50:08 PYTHON: Connected to ('192.168.1.10', 44644) 
+2022-12-18 22:50:09 PYTHON: The port tries exceeded the maximum ports. No port was available on this machine, please provide more ports in the Config file of the Deployer Server. 
+2022-12-18 22:50:09 PYTHON: Socket closed
+
+ 
+2022-12-18 22:50:55 PYTHON: Start listening to deployer Server  
+2022-12-18 22:51:23 PYTHON: Connected to ('192.168.1.10', 40656) 
+2022-12-18 22:53:11 PYTHON: Start listening to deployer Server  
+2022-12-18 22:53:38 PYTHON: Connected to ('192.168.1.10', 33774) 
+2022-12-18 22:55:38 PYTHON: Start listening to deployer Server  
+2022-12-18 22:57:58 PYTHON: Connected to ('192.168.1.10', 35008) 
+2022-12-18 22:57:58 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 22:57:58 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 22:57:59 PYTHON: Trying to kill the telnet process 
+2022-12-18 22:58:08 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 22:58:14 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 22:58:20 PYTHON: The port change was initiated. 
+2022-12-18 22:58:20 PYTHON: The changed port was found in services 
+2022-12-18 22:58:29 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 22:58:29 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 22:58:29 PYTHON: Socket closed 
+2022-12-18 22-58-29 SHELL: Sleeping for 35 seconds
+2022-12-18 22:59:08 PYTHON: Start listening to deployer Server  
+2022-12-18 22-59-11 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 22:59:36 PYTHON: Connected to ('192.168.1.10', 59912) 
+2022-12-18 22:59:36 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 22:59:36 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 22:59:36 PYTHON: Trying to kill the telnet process 
+2022-12-18 22:59:45 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 22:59:51 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 22:59:57 PYTHON: The port change was initiated. 
+2022-12-18 22:59:57 PYTHON: The changed port was found in services 
+2022-12-18 23:00:07 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:00:07 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:00:07 PYTHON: Socket closed 
+2022-12-18 23-00-07 SHELL: Sleeping for 35 seconds
+2022-12-18 23:00:45 PYTHON: Start listening to deployer Server  
+2022-12-18 23-00-48 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:01:13 PYTHON: Connected to ('192.168.1.10', 56470) 
+2022-12-18 23:01:13 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:01:13 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:01:13 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:01:22 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:01:29 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:01:35 PYTHON: The port change was initiated. 
+2022-12-18 23:01:35 PYTHON: The changed port was found in services 
+2022-12-18 23:01:44 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:01:44 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:01:44 PYTHON: Socket closed 
+2022-12-18 23-01-44 SHELL: Sleeping for 35 seconds
+2022-12-18 23:02:23 PYTHON: Start listening to deployer Server  
+2022-12-18 23-02-26 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:02:51 PYTHON: Connected to ('192.168.1.10', 48366) 
+2022-12-18 23:02:51 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:02:51 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:02:51 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:03:00 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:03:06 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:03:12 PYTHON: The port change was initiated. 
+2022-12-18 23:03:12 PYTHON: The changed port was found in services 
+2022-12-18 23:03:21 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:03:21 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:03:21 PYTHON: Socket closed 
+2022-12-18 23-03-21 SHELL: Sleeping for 35 seconds
+2022-12-18 23:04:00 PYTHON: Start listening to deployer Server  
+2022-12-18 23-04-04 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:04:28 PYTHON: Connected to ('192.168.1.10', 53078) 
+2022-12-18 23:04:28 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:04:28 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:04:28 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:04:37 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:04:43 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:04:49 PYTHON: The port change was initiated. 
+2022-12-18 23:04:49 PYTHON: The changed port was found in services 
+2022-12-18 23:04:59 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:04:59 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:04:59 PYTHON: Socket closed 
+2022-12-18 23-04-59 SHELL: Sleeping for 35 seconds
+2022-12-18 23:05:38 PYTHON: Start listening to deployer Server  
+2022-12-18 23-05-41 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:06:05 PYTHON: Connected to ('192.168.1.10', 51216) 
+2022-12-18 23:06:05 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:06:05 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:06:05 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:06:14 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:06:20 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:06:27 PYTHON: The port change was initiated. 
+2022-12-18 23:06:27 PYTHON: The changed port was found in services 
+2022-12-18 23:06:36 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:06:36 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:06:36 PYTHON: Socket closed 
+2022-12-18 23-06-36 SHELL: Sleeping for 35 seconds
+2022-12-18 23:07:15 PYTHON: Start listening to deployer Server  
+2022-12-18 23-07-18 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:07:42 PYTHON: Connected to ('192.168.1.10', 39538) 
+2022-12-18 23:07:42 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:07:42 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:07:42 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:07:51 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:07:58 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:08:04 PYTHON: The port change was initiated. 
+2022-12-18 23:08:04 PYTHON: The changed port was found in services 
+2022-12-18 23:08:13 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:08:13 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:08:13 PYTHON: Socket closed 
+2022-12-18 23-08-13 SHELL: Sleeping for 35 seconds
+2022-12-18 23:08:52 PYTHON: Start listening to deployer Server  
+2022-12-18 23-08-55 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:09:20 PYTHON: Connected to ('192.168.1.10', 55644) 
+2022-12-18 23:09:20 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:09:20 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:09:20 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:09:29 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:09:35 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:09:41 PYTHON: The port change was initiated. 
+2022-12-18 23:09:41 PYTHON: The changed port was found in services 
+2022-12-18 23:09:50 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:09:50 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:09:50 PYTHON: Socket closed 
+2022-12-18 23-09-50 SHELL: Sleeping for 35 seconds
+2022-12-18 23:10:29 PYTHON: Start listening to deployer Server  
+2022-12-18 23-10-33 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:10:57 PYTHON: Connected to ('192.168.1.10', 37320) 
+2022-12-18 23:10:57 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:10:57 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:10:57 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:11:06 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:11:12 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:11:18 PYTHON: The port change was initiated. 
+2022-12-18 23:11:18 PYTHON: The changed port was found in services 
+2022-12-18 23:11:28 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:11:28 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:11:28 PYTHON: Socket closed 
+2022-12-18 23-11-28 SHELL: Sleeping for 35 seconds
+2022-12-18 23:12:07 PYTHON: Start listening to deployer Server  
+2022-12-18 23-12-10 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:12:34 PYTHON: Connected to ('192.168.1.10', 34028) 
+2022-12-18 23:12:34 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:12:34 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:12:34 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:12:44 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:12:50 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:12:56 PYTHON: The port change was initiated. 
+2022-12-18 23:12:56 PYTHON: The changed port was found in services 
+2022-12-18 23:13:05 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:13:05 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:13:05 PYTHON: Socket closed 
+2022-12-18 23-13-05 SHELL: Sleeping for 35 seconds
+2022-12-18 23:13:44 PYTHON: Start listening to deployer Server  
+2022-12-18 23-13-47 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:14:12 PYTHON: Connected to ('192.168.1.10', 53488) 
+2022-12-18 23:14:12 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:14:12 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:14:12 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:14:21 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:14:27 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:14:33 PYTHON: The port change was initiated. 
+2022-12-18 23:14:33 PYTHON: The changed port was found in services 
+2022-12-18 23:14:42 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:14:42 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:14:42 PYTHON: Socket closed 
+2022-12-18 23-14-42 SHELL: Sleeping for 35 seconds
+2022-12-18 23:15:21 PYTHON: Start listening to deployer Server  
+2022-12-18 23-15-25 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:15:49 PYTHON: Connected to ('192.168.1.10', 45402) 
+2022-12-18 23:15:49 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:15:49 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:15:49 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:15:58 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:16:04 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:16:10 PYTHON: The port change was initiated. 
+2022-12-18 23:16:10 PYTHON: The changed port was found in services 
+2022-12-18 23:16:20 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:16:20 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:16:20 PYTHON: Socket closed 
+2022-12-18 23-16-20 SHELL: Sleeping for 35 seconds
+2022-12-18 23:16:59 PYTHON: Start listening to deployer Server  
+2022-12-18 23-17-02 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:17:26 PYTHON: Connected to ('192.168.1.10', 59654) 
+2022-12-18 23:17:26 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:17:26 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:17:26 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:17:35 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:17:41 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:17:48 PYTHON: The port change was initiated. 
+2022-12-18 23:17:48 PYTHON: The changed port was found in services 
+2022-12-18 23:17:57 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:17:57 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:17:57 PYTHON: Socket closed 
+2022-12-18 23-17-57 SHELL: Sleeping for 35 seconds
+2022-12-18 23:18:36 PYTHON: Start listening to deployer Server  
+2022-12-18 23-18-39 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:19:03 PYTHON: Connected to ('192.168.1.10', 47186) 
+2022-12-18 23:19:03 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:19:03 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:19:03 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:19:12 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:19:19 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:19:25 PYTHON: The port change was initiated. 
+2022-12-18 23:19:25 PYTHON: The changed port was found in services 
+2022-12-18 23:19:34 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:19:34 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:19:34 PYTHON: Socket closed 
+2022-12-18 23-19-34 SHELL: Sleeping for 35 seconds
+2022-12-18 23:20:13 PYTHON: Start listening to deployer Server  
+2022-12-18 23-20-16 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:20:40 PYTHON: Connected to ('192.168.1.10', 45532) 
+2022-12-18 23:20:41 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:20:41 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:20:41 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:20:50 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:20:56 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:21:02 PYTHON: The port change was initiated. 
+2022-12-18 23:21:02 PYTHON: The changed port was found in services 
+2022-12-18 23:21:11 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:21:11 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:21:11 PYTHON: Socket closed 
+2022-12-18 23-21-11 SHELL: Sleeping for 35 seconds
+2022-12-18 23:21:50 PYTHON: Start listening to deployer Server  
+2022-12-18 23-21-54 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:22:18 PYTHON: Connected to ('192.168.1.10', 43482) 
+2022-12-18 23:22:18 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:22:18 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:22:18 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:22:27 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:22:33 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:22:39 PYTHON: The port change was initiated. 
+2022-12-18 23:22:39 PYTHON: The changed port was found in services 
+2022-12-18 23:22:49 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:22:49 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:22:49 PYTHON: Socket closed 
+2022-12-18 23-22-49 SHELL: Sleeping for 35 seconds
+2022-12-18 23:23:28 PYTHON: Start listening to deployer Server  
+2022-12-18 23-23-31 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:23:55 PYTHON: Connected to ('192.168.1.10', 44736) 
+2022-12-18 23:23:55 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:23:55 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:23:55 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:24:04 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:24:10 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:24:20 PYTHON: The port change was initiated. 
+2022-12-18 23:24:20 PYTHON: The changed port was found in services 
+2022-12-18 23:24:29 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:24:29 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:24:29 PYTHON: Socket closed 
+2022-12-18 23-24-29 SHELL: Sleeping for 35 seconds
+2022-12-18 23:25:08 PYTHON: Start listening to deployer Server  
+2022-12-18 23-25-11 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:25:35 PYTHON: Connected to ('192.168.1.10', 55330) 
+2022-12-18 23:25:35 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:25:35 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:25:35 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:25:45 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:25:51 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:25:57 PYTHON: The port change was initiated. 
+2022-12-18 23:25:57 PYTHON: The changed port was found in services 
+2022-12-18 23:26:06 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:26:06 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:26:06 PYTHON: Socket closed 
+2022-12-18 23-26-06 SHELL: Sleeping for 35 seconds
+2022-12-18 23:26:45 PYTHON: Start listening to deployer Server  
+2022-12-18 23-26-49 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:27:13 PYTHON: Connected to ('192.168.1.10', 50210) 
+2022-12-18 23:27:13 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:27:13 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:27:13 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:27:22 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:27:28 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:27:34 PYTHON: The port change was initiated. 
+2022-12-18 23:27:34 PYTHON: The changed port was found in services 
+2022-12-18 23:27:44 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:27:44 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:27:44 PYTHON: Socket closed 
+2022-12-18 23-27-44 SHELL: Sleeping for 35 seconds
+2022-12-18 23:28:23 PYTHON: Start listening to deployer Server  
+2022-12-18 23-28-26 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:28:50 PYTHON: Connected to ('192.168.1.10', 52876) 
+2022-12-18 23:28:50 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:28:50 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:28:50 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:28:59 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:29:06 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:29:12 PYTHON: The port change was initiated. 
+2022-12-18 23:29:12 PYTHON: The changed port was found in services 
+2022-12-18 23:29:21 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:29:21 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:29:21 PYTHON: Socket closed 
+2022-12-18 23-29-21 SHELL: Sleeping for 35 seconds
+2022-12-18 23:30:00 PYTHON: Start listening to deployer Server  
+2022-12-18 23-30-03 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:30:27 PYTHON: Connected to ('192.168.1.10', 50752) 
+2022-12-18 23:30:27 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:30:27 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:30:27 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:30:37 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:30:43 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:30:49 PYTHON: The port change was initiated. 
+2022-12-18 23:30:49 PYTHON: The changed port was found in services 
+2022-12-18 23:30:58 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:30:58 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:30:58 PYTHON: Socket closed 
+2022-12-18 23-30-58 SHELL: Sleeping for 35 seconds
+2022-12-18 23:31:37 PYTHON: Start listening to deployer Server  
+2022-12-18 23-31-40 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:32:05 PYTHON: Connected to ('192.168.1.10', 54534) 
+2022-12-18 23:32:05 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:32:05 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:32:05 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:32:14 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:32:20 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:32:26 PYTHON: The port change was initiated. 
+2022-12-18 23:32:26 PYTHON: The changed port was found in services 
+2022-12-18 23:32:35 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:32:35 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:32:35 PYTHON: Socket closed 
+2022-12-18 23-32-35 SHELL: Sleeping for 35 seconds
+2022-12-18 23:33:15 PYTHON: Start listening to deployer Server  
+2022-12-18 23-33-18 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:33:42 PYTHON: Connected to ('192.168.1.10', 60800) 
+2022-12-18 23:33:42 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:33:42 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:33:42 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:33:51 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:33:57 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:34:03 PYTHON: The port change was initiated. 
+2022-12-18 23:34:03 PYTHON: The changed port was found in services 
+2022-12-18 23:34:13 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:34:13 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:34:13 PYTHON: Socket closed 
+2022-12-18 23-34-13 SHELL: Sleeping for 35 seconds
+2022-12-18 23:34:52 PYTHON: Start listening to deployer Server  
+2022-12-18 23-34-55 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:35:19 PYTHON: Connected to ('192.168.1.10', 51276) 
+2022-12-18 23:35:19 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:35:19 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:35:19 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:35:28 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:35:35 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:35:41 PYTHON: The port change was initiated. 
+2022-12-18 23:35:41 PYTHON: The changed port was found in services 
+2022-12-18 23:35:50 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:35:50 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:35:50 PYTHON: Socket closed 
+2022-12-18 23-35-50 SHELL: Sleeping for 35 seconds
+2022-12-18 23:36:29 PYTHON: Start listening to deployer Server  
+2022-12-18 23-36-32 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:36:57 PYTHON: Connected to ('192.168.1.10', 59938) 
+2022-12-18 23:36:57 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:36:57 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:36:57 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:37:06 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:37:12 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:37:18 PYTHON: The port change was initiated. 
+2022-12-18 23:37:18 PYTHON: The changed port was found in services 
+2022-12-18 23:37:27 PYTHON: Telnet check is executed again to assure that it is inaccessible.  
+2022-12-18 23:37:27 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-18 23:37:27 PYTHON: Socket closed 
+2022-12-18 23-37-27 SHELL: Sleeping for 35 seconds
+2022-12-18 23:38:06 PYTHON: Start listening to deployer Server  
+2022-12-18 23-38-10 SHELL: Went from port 2595 back to port 23
+
+
+2022-12-18 23:38:34 PYTHON: Connected to ('192.168.1.10', 39636) 
+2022-12-18 23:38:34 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2595 
+2022-12-18 23:38:34 PYTHON: Port 2595 is not yet used on this system. 
+2022-12-18 23:38:34 PYTHON: Trying to kill the telnet process 
+2022-12-18 23:38:43 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-18 23:38:49 PYTHON: Telnetport was accessible, initiating change 
+2022-12-18 23:38:55 PYTHON: The port change was initiated. 
+2022-12-18 23:38:55 PYTHON: The changed port was found in services 
+2022-12-18 23:59:40 PYTHON: Start listening to deployer Server  
+2022-12-19 00:03:34 PYTHON: Connected to ('192.168.1.10', 49520) 
+2022-12-19 00:03:34 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.89 
+2022-12-19 00:03:34 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2022-12-19 00:03:34 PYTHON: Bashlite Client was killed 
+2022-12-19 00:03:51 PYTHON: The change to the IP 192.168.1.89 worked. 
+
+ 
+2022-12-19 00:04:30 PYTHON: Start listening to deployer Server  
+2022-12-19 00:18:21 PYTHON: Connected to ('192.168.1.10', 51330) 
+2022-12-19 00:18:21 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.60 
+2022-12-19 00:18:21 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2022-12-19 00:18:21 PYTHON: Bashlite Client was killed 
+2022-12-19 00:18:37 PYTHON: The change to the IP 192.168.1.60 worked. 
+
+ 
+2022-12-19 00:19:16 PYTHON: Start listening to deployer Server  
+2022-12-22 19:02:12 PYTHON: Start listening to deployer Server  
+2022-12-22 19:28:22 PYTHON: Start listening to deployer Server  
+2022-12-22 19:29:04 PYTHON: Start listening to deployer Server  
+2022-12-22 20:11:17 PYTHON: Start listening to deployer Server  
+2022-12-22 20:12:23 PYTHON: Connected to ('192.168.1.10', 48320) 
+2022-12-22 20:12:23 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.16 
+2022-12-22 20:12:23 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2022-12-22 20:12:23 PYTHON: Bashlite Client was killed 
+2022-12-22 20:12:39 PYTHON: The change to the IP 192.168.1.16 worked. 
+
+ 
+2022-12-22 20:13:19 PYTHON: Start listening to deployer Server  
+2022-12-23 13:56:42 PYTHON: ERROR: It was not possible to get the old telnet port. There was a discrepancy between the port in /etc/services and the actual port that is running telnet. 
+2022-12-23 14:03:45 PYTHON: ERROR: It was not possible to get the old telnet port. There was a discrepancy between the port in /etc/services and the actual port that is running telnet. 
+2022-12-23 14:29:48 PYTHON: ERROR: It was not possible to get the old telnet port. There was a discrepancy between the port in /etc/services and the actual port that is running telnet. 
+2022-12-23 14:30:55 PYTHON: ERROR: It was not possible to get the old telnet port. There was a discrepancy between the port in /etc/services and the actual port that is running telnet. 
+2022-12-23 14:31:19 PYTHON: ERROR: It was not possible to get the old telnet port. There was a discrepancy between the port in /etc/services and the actual port that is running telnet. 
+2022-12-23 14:35:03 PYTHON: ERROR: It was not possible to get the old telnet port. There was a discrepancy between the port in /etc/services and the actual port that is running telnet. 
+2022-12-23 14:35:57 PYTHON: ERROR: It was not possible to get the old telnet port. There was a discrepancy between the port in /etc/services and the actual port that is running telnet. 
+2022-12-23 14:37:41 PYTHON: ERROR: It was not possible to get the old telnet port. There was a discrepancy between the port in /etc/services and the actual port that is running telnet. 
+2022-12-23 14:40:49 PYTHON: ERROR: It was not possible to get the old telnet port. There was a discrepancy between the port in /etc/services and the actual port that is running telnet. 
+2022-12-23 14:43:08 PYTHON: ERROR: It was not possible to get the old telnet port. There was a discrepancy between the port in /etc/services and the actual port that is running telnet. 
+2022-12-23 15:21:56 PYTHON: ERROR: It was not possible to get the old telnet port. Did you start this Python script with sudo? The error message is:  
+2022-12-24 10:52:37 PYTHON: Start listening to deployer Server  
+2022-12-24 10:53:36 PYTHON: Connected to ('192.168.1.10', 34948) 
+2022-12-24 10:54:41 PYTHON: Start listening to deployer Server  
+2022-12-24 10:54:46 PYTHON: Connected to ('192.168.1.10', 58226) 
+2022-12-24 10:55:42 PYTHON: Start listening to deployer Server  
+2022-12-24 10:57:17 PYTHON: Connected to ('192.168.1.10', 58380) 
+2022-12-24 10:57:17 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2022-12-24 10:57:17 PYTHON: Port 2596 is not yet used on this system. 
+2022-12-24 10:57:17 PYTHON: ERROR: It was not possible to get the old telnet port. Did you start this Python script with sudo? The error message is:  
+2022-12-24 10:57:17 PYTHON: Socket closed 
+2022-12-24 10:59:28 PYTHON: Start listening to deployer Server  
+2022-12-24 11:00:06 PYTHON: Connected to ('192.168.1.10', 36682) 
+2022-12-24 11:00:06 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2022-12-24 11:00:06 PYTHON: Port 2596 is not yet used on this system. 
+2022-12-24 11:00:06 PYTHON: ERROR: It was not possible to get the old telnet port. Did you start this Python script with sudo? The error message is:  
+2022-12-24 11:00:06 PYTHON: Socket closed 
+2022-12-24 11:00:45 PYTHON: Start listening to deployer Server  
+2022-12-24 11:01:51 PYTHON: Start listening to deployer Server  
+2022-12-24 11:02:21 PYTHON: Connected to ('192.168.1.10', 59218) 
+2022-12-24 11:02:21 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2022-12-24 11:02:21 PYTHON: Port 2596 is not yet used on this system. 
+2022-12-24 11:02:22 PYTHON: ERROR: It was not possible to get the old telnet port. Did you start this Python script with sudo? The error message is:  
+2022-12-24 11:02:22 PYTHON: Socket closed 
+2022-12-24 11:03:01 PYTHON: Start listening to deployer Server  
+2022-12-24 11:04:03 PYTHON: Start listening to deployer Server  
+2022-12-24 11:04:42 PYTHON: Connected to ('192.168.1.10', 49224) 
+2022-12-24 11:04:42 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2022-12-24 11:04:42 PYTHON: Port 2596 is not yet used on this system. 
+2022-12-24 11:04:42 PYTHON: ERROR: It was not possible to get the old telnet port. Did you start this Python script with sudo? The error message is:  
+2022-12-24 11:04:42 PYTHON: Socket closed 
+2022-12-24 11:05:33 PYTHON: Start listening to deployer Server  
+2022-12-24 11:06:15 PYTHON: Connected to ('192.168.1.10', 39466) 
+2022-12-24 11:06:15 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2022-12-24 11:06:15 PYTHON: Port 2596 is not yet used on this system. 
+2022-12-24 11:06:15 PYTHON: Trying to kill the telnet process 
+2022-12-24 11:06:24 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-24 11:08:03 PYTHON: Start listening to deployer Server  
+2022-12-24 11:08:39 PYTHON: Connected to ('192.168.1.10', 43740) 
+2022-12-24 11:08:39 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2022-12-24 11:08:39 PYTHON: Port 2596 is not yet used on this system. 
+2022-12-24 11:08:39 PYTHON: Trying to kill the telnet process 
+2022-12-24 11:08:48 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-24 11:08:48 PYTHON: Telnetport was accessible, initiating change 
+2022-12-24 11:08:55 PYTHON: The port change was initiated. 
+2022-12-24 11:08:55 PYTHON: The changed port was found in services 
+2022-12-24 11:08:55 PYTHON: The new port was found in services, but telnet connection is still possible 
+2022-12-24 11:08:55 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-24 11:08:55 PYTHON: Socket closed 
+2022-12-24 11-08-55 SHELL: Sleeping for 35 seconds
+2022-12-24 11:09:34 PYTHON: Start listening to deployer Server  
+2022-12-24 11-09-37 SHELL: Went from port 2596 back to port 23
+
+
+2022-12-24 11:13:43 PYTHON: Start listening to deployer Server  
+2022-12-24 11:14:07 PYTHON: Connected to ('192.168.1.10', 58026) 
+2022-12-24 11:14:07 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2022-12-24 11:14:07 PYTHON: Port 2596 is not yet used on this system. 
+2022-12-24 11:14:07 PYTHON: Trying to kill the telnet process 
+2022-12-24 11:14:16 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-24 11:14:16 PYTHON: Telnetport was accessible, initiating change 
+2022-12-24 11:14:25 PYTHON: The port change was initiated. 
+2022-12-24 11:14:25 PYTHON: The changed port was found in services 
+2022-12-24 11:14:25 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-24 11:14:25 PYTHON: Socket closed 
+2022-12-24 11-14-25 SHELL: Sleeping for 35 seconds
+2022-12-24 11:15:05 PYTHON: Start listening to deployer Server  
+2022-12-24 11-15-08 SHELL: Went from port 2596 back to port 23
+
+
+2022-12-26 11:19:11 PYTHON: Start listening to deployer Server  
+2022-12-26 11:19:57 PYTHON: Connected to ('192.168.1.10', 58588) 
+2022-12-26 11:19:57 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2022-12-26 11:19:57 PYTHON: Port 2596 is not yet used on this system. 
+2022-12-26 11:19:57 PYTHON: Trying to kill the telnet process 
+2022-12-26 11:20:06 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-26 11:20:06 PYTHON: Telnetport was accessible, initiating change 
+2022-12-26 11:20:16 PYTHON: The port change was initiated. 
+2022-12-26 11:20:16 PYTHON: The changed port was found in services 
+2022-12-26 11:20:16 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-26 11:20:16 PYTHON: Socket closed 
+2022-12-26 11-20-16 SHELL: Sleeping for 35 seconds
+2022-12-26 11:20:55 PYTHON: Start listening to deployer Server  
+The change back to port 23 failed somehow.2022-12-26 11:23:45 PYTHON: Start listening to deployer Server  
+2022-12-26 11:24:18 PYTHON: Connected to ('192.168.1.10', 44494) 
+2022-12-26 11:24:18 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2022-12-26 11:24:18 PYTHON: Port 2596 is not yet used on this system. 
+2022-12-26 11:24:18 PYTHON: Trying to kill the telnet process 
+2022-12-26 11:24:27 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-26 11:24:27 PYTHON: Telnetport was accessible, initiating change 
+2022-12-26 11:24:36 PYTHON: The port change was initiated. 
+2022-12-26 11:24:36 PYTHON: The changed port was found in services 
+2022-12-26 11:24:36 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-26 11:24:36 PYTHON: Socket closed 
+2022-12-26 11-24-36 SHELL: Sleeping for 35 seconds
+2022-12-26 11:25:15 PYTHON: Start listening to deployer Server  
+The change back to port 23 failed somehow.2022-12-26 11-38-17 SHELL: Sleeping for 35 seconds
+2022-12-26 11-39-17 SHELL:The change back to port 23 failed somehow.2022-12-26 11-45-26 SHELL: Sleeping for 3 seconds
+2022-12-26 11-45-55 SHELL:The change back to port 23 failed somehow
+
+
+.2022-12-26 11-48-02 SHELL: Sleeping for 3 seconds
+2022-12-26 11-48-30 SHELL:The change back to port 23 failed somehow
+
+
+.2022-12-26 11-49-58 SHELL: Sleeping for 3 seconds
+2022-12-26 11-50-26 SHELL:The change back to port 23 failed somehow
+
+
+.2022-12-26 11-51-45 SHELL: Sleeping for 3 seconds
+2022-12-26 11-52-13 SHELL:The change back to port 23 failed somehow
+
+
+.2022-12-26 12:03:57 PYTHON: Start listening to deployer Server  
+2022-12-26 12:04:29 PYTHON: Connected to ('192.168.1.10', 56064) 
+2022-12-26 12:04:29 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2022-12-26 12:04:29 PYTHON: Port 2596 is not yet used on this system. 
+2022-12-26 12:04:29 PYTHON: Trying to kill the telnet process 
+2022-12-26 12:04:38 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-26 12:04:38 PYTHON: Telnetport was accessible, initiating change 
+2022-12-26 12:04:48 PYTHON: The port change was initiated. 
+2022-12-26 12:04:48 PYTHON: The changed port was found in services 
+2022-12-26 12:04:48 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-26 12:04:48 PYTHON: Socket closed 
+2022-12-26 12-04-48 SHELL: Sleeping for 35 seconds
+2022-12-26 12:05:27 PYTHON: Start listening to deployer Server  
+2022-12-26 12-05-46 SHELL:The change back to port 23 failed somehow
+
+
+.2022-12-26 12:13:24 PYTHON: Start listening to deployer Server  
+2022-12-26 12:14:01 PYTHON: Connected to ('192.168.1.10', 45616) 
+2022-12-26 12:14:01 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2022-12-26 12:14:01 PYTHON: Port 2596 is not yet used on this system. 
+2022-12-26 12:14:01 PYTHON: Trying to kill the telnet process 
+2022-12-26 12:14:10 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-26 12:14:10 PYTHON: Telnetport was accessible, initiating change 
+2022-12-26 12:14:19 PYTHON: The port change was initiated. 
+2022-12-26 12:14:19 PYTHON: The changed port was found in services 
+2022-12-26 12:14:19 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-26 12:14:19 PYTHON: Socket closed 
+2022-12-26 12-14-19 SHELL: Sleeping for 35 seconds
+2022-12-26 12:14:58 PYTHON: Start listening to deployer Server  
+2022-12-26 12-15-18 SHELL: ERROR: The change back to port 23 failed somehow
+
+
+.2022-12-26 12:21:41 PYTHON: Start listening to deployer Server  
+2022-12-26 12:22:13 PYTHON: Connected to ('192.168.1.10', 59952) 
+2022-12-26 12:22:13 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2022-12-26 12:22:13 PYTHON: Port 2596 is not yet used on this system. 
+2022-12-26 12:22:13 PYTHON: Trying to kill the telnet process 
+2022-12-26 12:22:22 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2022-12-26 12:22:22 PYTHON: Telnetport was accessible, initiating change 
+2022-12-26 12:22:31 PYTHON: The port change was initiated. 
+2022-12-26 12:22:31 PYTHON: The changed port was found in services 
+2022-12-26 12:22:31 PYTHON: Telnet is not listening anymore, so this worked 
+2022-12-26 12:22:31 PYTHON: Socket closed 
+2022-12-26 12-22-31 SHELL: Sleeping for 35 seconds
+2022-12-26 12:23:11 PYTHON: Start listening to deployer Server  
+2022-12-26 12-23-30 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-02 21:43:06 PYTHON: Start listening to deployer Server  
+2023-01-02 21:43:46 PYTHON: Connected to ('192.168.1.10', 57724) 
+2023-01-02 21:43:46 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.2 
+2023-01-02 21:43:46 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-02 21:43:46 PYTHON: There was no Bashlite Client to kill 
+2023-01-02 21:44:01 PYTHON: The change to the IP 192.168.1.2 worked. 
+
+ 
+2023-01-02 21:44:37 PYTHON: Start listening to deployer Server  
+2023-01-02 22:06:57 PYTHON: Start listening to deployer Server  
+2023-01-02 22:07:53 PYTHON: Connected to ('192.168.1.10', 60410) 
+2023-01-02 22:07:53 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.9 
+2023-01-02 22:07:53 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-02 22:07:53 PYTHON: There was no Bashlite Client to kill 
+2023-01-02 22:08:09 PYTHON: The change to the IP 192.168.1.9 worked. 
+
+ 
+2023-01-02 22:08:46 PYTHON: Start listening to deployer Server  
+2023-01-02 22:30:27 PYTHON: Start listening to deployer Server  
+2023-01-02 22:31:38 PYTHON: Connected to ('192.168.1.10', 48988) 
+2023-01-02 22:31:38 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.86 
+2023-01-02 22:31:38 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-02 22:31:38 PYTHON: There was no Bashlite Client to kill 
+2023-01-02 22:31:53 PYTHON: The change to the IP 192.168.1.86 worked. 
+
+ 
+2023-01-02 22:32:30 PYTHON: Start listening to deployer Server  
+2023-01-02 22:47:21 PYTHON: Start listening to deployer Server  
+2023-01-02 22:47:39 PYTHON: Connected to ('192.168.1.10', 41004) 
+2023-01-02 22:47:39 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.36 
+2023-01-02 22:47:39 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-02 22:47:39 PYTHON: Bashlite Client was killed 
+2023-01-02 22:47:54 PYTHON: The change to the IP 192.168.1.36 worked. 
+
+ 
+2023-01-02 22:48:31 PYTHON: Start listening to deployer Server  
+2023-01-02 23:04:42 PYTHON: Start listening to deployer Server  
+2023-01-02 23:09:35 PYTHON: Connected to ('192.168.1.10', 55986) 
+2023-01-02 23:09:35 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.87 
+2023-01-02 23:09:35 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-02 23:09:35 PYTHON: Bashlite Client was killed 
+2023-01-02 23:09:49 PYTHON: The change to the IP 192.168.1.87 worked. 
+
+ 
+2023-01-02 23:10:26 PYTHON: Start listening to deployer Server  
+2023-01-02 23:10:55 PYTHON: Connected to ('192.168.1.10', 43262) 
+2023-01-02 23:10:55 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.22 
+2023-01-02 23:10:55 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-02 23:10:56 PYTHON: Bashlite Client was killed 
+2023-01-02 23:11:11 PYTHON: The change to the IP 192.168.1.22 worked. 
+
+ 
+2023-01-02 23:11:48 PYTHON: Start listening to deployer Server  
+2023-01-02 23:12:16 PYTHON: Connected to ('192.168.1.10', 41150) 
+2023-01-02 23:12:16 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.89 
+2023-01-02 23:12:16 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-02 23:12:17 PYTHON: Bashlite Client was killed 
+2023-01-02 23:12:31 PYTHON: The change to the IP 192.168.1.89 worked. 
+
+ 
+2023-01-02 23:17:05 PYTHON: Start listening to deployer Server  
+2023-01-02 23:17:56 PYTHON: Connected to ('192.168.1.10', 41080) 
+2023-01-02 23:17:56 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.19 
+2023-01-02 23:17:56 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-02 23:17:56 PYTHON: Bashlite Client was killed 
+2023-01-02 23:18:12 PYTHON: The change to the IP 192.168.1.19 worked. 
+
+ 
+2023-01-02 23:18:49 PYTHON: Start listening to deployer Server  
+2023-01-02 23:20:24 PYTHON: Connected to ('192.168.1.10', 48328) 
+2023-01-02 23:20:25 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.89 
+2023-01-02 23:20:25 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-02 23:20:25 PYTHON: Bashlite Client was killed 
+2023-01-02 23:20:39 PYTHON: The change to the IP 192.168.1.89 worked. 
+
+ 
+2023-01-02 23:21:16 PYTHON: Start listening to deployer Server  
+2023-01-03 13:49:12 PYTHON: Start listening to deployer Server  
+2023-01-03 13:50:46 PYTHON: Connected to ('192.168.1.10', 59594) 
+2023-01-03 13:50:46 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.4 
+2023-01-03 13:50:46 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 13:50:47 PYTHON: Bashlite Client was killed 
+2023-01-03 13:50:54 PYTHON: The change of the IP address did not work. The current IP address is 127.0.0.2 but it should be: 192.168.1.4.
+
+ 
+2023-01-03 13:51:32 PYTHON: Start listening to deployer Server  
+2023-01-03 13:53:05 PYTHON: Connected to ('192.168.1.10', 46442) 
+2023-01-03 13:53:05 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.65 
+2023-01-03 13:53:05 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 13:53:05 PYTHON: There was no Bashlite Client to kill 
+2023-01-03 13:53:22 PYTHON: The change to the IP 192.168.1.65 worked. 
+
+ 
+2023-01-03 14:15:21 PYTHON: Start listening to deployer Server  
+2023-01-03 14:20:43 PYTHON: Connected to ('192.168.1.10', 58410) 
+2023-01-03 14:20:43 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.54 
+2023-01-03 14:20:43 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 14:20:43 PYTHON: Bashlite Client was killed 
+2023-01-03 14:20:57 PYTHON: The change to the IP 192.168.1.54 worked. 
+
+ 
+2023-01-03 14:21:34 PYTHON: Start listening to deployer Server  
+2023-01-03 14:23:02 PYTHON: Connected to ('192.168.1.10', 49278) 
+2023-01-03 14:23:02 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.84 
+2023-01-03 14:23:02 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 14:23:02 PYTHON: There was no Bashlite Client to kill 
+2023-01-03 14:23:10 PYTHON: The change of the IP address did not work. The current IP address is 127.0.0.2 but it should be: 192.168.1.84.
+
+ 
+2023-01-03 14:23:49 PYTHON: Start listening to deployer Server  
+2023-01-03 14:25:20 PYTHON: Connected to ('192.168.1.10', 45956) 
+2023-01-03 14:25:21 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.68 
+2023-01-03 14:25:21 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 14:25:21 PYTHON: There was no Bashlite Client to kill 
+2023-01-03 14:25:35 PYTHON: The change to the IP 192.168.1.68 worked. 
+
+ 
+2023-01-03 21:48:42 PYTHON: Start listening to deployer Server  
+2023-01-03 21:50:51 PYTHON: Connected to ('192.168.1.10', 38804) 
+2023-01-03 21:50:51 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.28 
+2023-01-03 21:50:51 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 21:50:51 PYTHON: Bashlite Client was killed 
+2023-01-03 21:51:06 PYTHON: The change to the IP 192.168.1.28 worked. 
+
+ 
+2023-01-03 21:51:43 PYTHON: Start listening to deployer Server  
+2023-01-03 21:53:10 PYTHON: Connected to ('192.168.1.10', 37320) 
+2023-01-03 21:53:10 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.53 
+2023-01-03 21:53:10 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 21:53:10 PYTHON: Bashlite Client was killed 
+2023-01-03 21:53:25 PYTHON: The change to the IP 192.168.1.53 worked. 
+
+ 
+2023-01-03 21:54:01 PYTHON: Start listening to deployer Server  
+2023-01-03 21:56:50 PYTHON: Start listening to deployer Server  
+2023-01-03 21:58:30 PYTHON: Connected to ('192.168.1.10', 35176) 
+2023-01-03 21:58:30 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.81 
+2023-01-03 21:58:30 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 21:58:30 PYTHON: Bashlite Client was killed 
+2023-01-03 21:58:44 PYTHON: The change to the IP 192.168.1.81 worked. 
+
+ 
+2023-01-03 21:59:21 PYTHON: Start listening to deployer Server  
+2023-01-03 22:00:48 PYTHON: Connected to ('192.168.1.10', 56376) 
+2023-01-03 22:00:48 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.64 
+2023-01-03 22:00:48 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 22:00:48 PYTHON: Bashlite Client was killed 
+2023-01-03 22:01:03 PYTHON: The change to the IP 192.168.1.64 worked. 
+
+ 
+2023-01-03 22:14:37 PYTHON: Start listening to deployer Server  
+2023-01-03 22:16:22 PYTHON: Start listening to deployer Server  
+2023-01-03 22:17:26 PYTHON: Connected to ('192.168.1.10', 37558) 
+2023-01-03 22:17:26 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.43 
+2023-01-03 22:17:26 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 22:17:27 PYTHON: Bashlite Client was killed 
+2023-01-03 22:17:42 PYTHON: The change to the IP 192.168.1.43 worked. 
+
+ 
+2023-01-03 22:18:18 PYTHON: Start listening to deployer Server  
+2023-01-03 22:18:37 PYTHON: Connected to ('192.168.1.10', 40782) 
+2023-01-03 22:18:37 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.44 
+2023-01-03 22:18:37 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 22:18:37 PYTHON: Bashlite Client was killed 
+2023-01-03 22:18:51 PYTHON: The change to the IP 192.168.1.44 worked. 
+
+ 
+2023-01-03 22:19:28 PYTHON: Start listening to deployer Server  
+2023-01-03 22:19:46 PYTHON: Connected to ('192.168.1.10', 37398) 
+2023-01-03 22:19:46 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.52 
+2023-01-03 22:19:46 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 22:19:47 PYTHON: Bashlite Client was killed 
+2023-01-03 22:20:01 PYTHON: The change to the IP 192.168.1.52 worked. 
+
+ 
+2023-01-03 22:20:38 PYTHON: Start listening to deployer Server  
+2023-01-03 22:20:56 PYTHON: Connected to ('192.168.1.10', 51452) 
+2023-01-03 22:20:56 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.24 
+2023-01-03 22:20:56 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 22:20:57 PYTHON: There was no Bashlite Client to kill 
+2023-01-03 22:21:11 PYTHON: The change to the IP 192.168.1.24 worked. 
+
+ 
+2023-01-03 22:21:48 PYTHON: Start listening to deployer Server  
+2023-01-03 22:22:07 PYTHON: Connected to ('192.168.1.10', 46212) 
+2023-01-03 22:22:07 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.58 
+2023-01-03 22:22:07 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 22:22:07 PYTHON: Bashlite Client was killed 
+2023-01-03 22:22:21 PYTHON: The change to the IP 192.168.1.58 worked. 
+
+ 
+2023-01-03 22:22:58 PYTHON: Start listening to deployer Server  
+2023-01-03 22:23:17 PYTHON: Connected to ('192.168.1.10', 34914) 
+2023-01-03 22:23:17 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.42 
+2023-01-03 22:23:17 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 22:23:17 PYTHON: Bashlite Client was killed 
+2023-01-03 22:23:31 PYTHON: The change to the IP 192.168.1.42 worked. 
+
+ 
+2023-01-03 22:24:08 PYTHON: Start listening to deployer Server  
+2023-01-03 22:24:27 PYTHON: Connected to ('192.168.1.10', 49018) 
+2023-01-03 22:24:27 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.22 
+2023-01-03 22:24:27 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 22:24:27 PYTHON: Bashlite Client was killed 
+2023-01-03 22:24:41 PYTHON: The change to the IP 192.168.1.22 worked. 
+
+ 
+2023-01-03 22:25:18 PYTHON: Start listening to deployer Server  
+2023-01-03 22:25:36 PYTHON: Connected to ('192.168.1.10', 38950) 
+2023-01-03 22:25:36 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.35 
+2023-01-03 22:25:36 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 22:25:36 PYTHON: Bashlite Client was killed 
+2023-01-03 22:25:52 PYTHON: The change to the IP 192.168.1.35 worked. 
+
+ 
+2023-01-03 22:26:29 PYTHON: Start listening to deployer Server  
+2023-01-03 22:26:47 PYTHON: Connected to ('192.168.1.10', 60768) 
+2023-01-03 22:26:47 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.84 
+2023-01-03 22:26:47 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 22:26:47 PYTHON: Bashlite Client was killed 
+2023-01-03 22:27:02 PYTHON: The change to the IP 192.168.1.84 worked. 
+
+ 
+2023-01-03 22:27:38 PYTHON: Start listening to deployer Server  
+2023-01-03 22:27:56 PYTHON: Connected to ('192.168.1.10', 57044) 
+2023-01-03 22:27:57 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.37 
+2023-01-03 22:27:57 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 22:27:57 PYTHON: There was no Bashlite Client to kill 
+2023-01-03 22:28:11 PYTHON: The change to the IP 192.168.1.37 worked. 
+
+ 
+2023-01-03 22:28:48 PYTHON: Start listening to deployer Server  
+2023-01-03 22:29:07 PYTHON: Connected to ('192.168.1.10', 33252) 
+2023-01-03 22:29:07 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.22 
+2023-01-03 22:29:07 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 22:29:07 PYTHON: Bashlite Client was killed 
+2023-01-03 22:29:21 PYTHON: The change to the IP 192.168.1.22 worked. 
+
+ 
+2023-01-03 22:29:58 PYTHON: Start listening to deployer Server  
+2023-01-03 22:30:16 PYTHON: Connected to ('192.168.1.10', 49396) 
+2023-01-03 22:30:16 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.88 
+2023-01-03 22:30:16 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 22:30:17 PYTHON: Bashlite Client was killed 
+2023-01-03 22:30:31 PYTHON: The change to the IP 192.168.1.88 worked. 
+
+ 
+2023-01-03 22:31:07 PYTHON: Start listening to deployer Server  
+2023-01-03 22:31:27 PYTHON: Connected to ('192.168.1.10', 46364) 
+2023-01-03 22:31:27 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.56 
+2023-01-03 22:31:27 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 22:31:27 PYTHON: Bashlite Client was killed 
+2023-01-03 22:31:42 PYTHON: The change to the IP 192.168.1.56 worked. 
+
+ 
+2023-01-03 22:32:18 PYTHON: Start listening to deployer Server  
+2023-01-03 22:32:36 PYTHON: Connected to ('192.168.1.10', 41392) 
+2023-01-03 22:32:37 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.38 
+2023-01-03 22:32:37 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 22:32:37 PYTHON: There was no Bashlite Client to kill 
+2023-01-03 22:32:51 PYTHON: The change to the IP 192.168.1.38 worked. 
+
+ 
+2023-01-03 22:33:28 PYTHON: Start listening to deployer Server  
+2023-01-03 22:33:47 PYTHON: Connected to ('192.168.1.10', 41282) 
+2023-01-03 22:33:47 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.42 
+2023-01-03 22:33:47 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 22:33:47 PYTHON: Bashlite Client was killed 
+2023-01-03 22:34:01 PYTHON: The change to the IP 192.168.1.42 worked. 
+
+ 
+2023-01-03 22:34:38 PYTHON: Start listening to deployer Server  
+2023-01-03 22:34:57 PYTHON: Connected to ('192.168.1.10', 39436) 
+2023-01-03 22:34:57 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.21 
+2023-01-03 22:34:57 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 22:34:57 PYTHON: Bashlite Client was killed 
+2023-01-03 22:35:11 PYTHON: The change to the IP 192.168.1.21 worked. 
+
+ 
+2023-01-03 22:35:48 PYTHON: Start listening to deployer Server  
+2023-01-02 22:18:12 PYTHON: Start listening to deployer Server  
+2023-01-02 22:20:12 PYTHON: Connected to ('192.168.1.10', 39264) 
+2023-01-02 22:20:12 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.25 
+2023-01-02 22:20:12 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-02 22:20:12 PYTHON: Bashlite Client was killed 
+2023-01-02 22:20:29 PYTHON: The change of the IP address did not work. The current IP address is 192.168.1.95 but it should be: 192.168.1.25.
+
+ 
+2023-01-02 22:21:08 PYTHON: Start listening to deployer Server  
+2023-01-02 22:27:13 PYTHON: Start listening to deployer Server  
+2023-01-02 22:27:47 PYTHON: Connected to ('192.168.1.10', 35058) 
+2023-01-02 22:27:47 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.29 
+2023-01-02 22:27:47 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-02 22:27:47 PYTHON: Bashlite Client was killed 
+2023-01-02 22:28:03 PYTHON: The change to the IP 192.168.1.23 worked. 
+
+ 
+2023-01-02 22:28:42 PYTHON: Start listening to deployer Server  
+2023-01-02 22:28:56 PYTHON: Connected to ('192.168.1.10', 60650) 
+2023-01-02 22:28:56 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.62 
+2023-01-02 22:28:56 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-02 22:28:56 PYTHON: Bashlite Client was killed 
+2023-01-02 22:29:13 PYTHON: The change to the IP 192.168.1.95 worked. 
+
+ 
+2023-01-02 22:29:52 PYTHON: Start listening to deployer Server  
+2023-01-02 22:30:07 PYTHON: Connected to ('192.168.1.10', 39706) 
+2023-01-02 22:30:07 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.52 
+2023-01-02 22:30:07 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-02 22:30:07 PYTHON: Bashlite Client was killed 
+2023-01-02 22:30:23 PYTHON: The change to the IP 192.168.1.23 worked. 
+
+ 
+2023-01-02 22:31:03 PYTHON: Start listening to deployer Server  
+2023-01-02 22:31:16 PYTHON: Connected to ('192.168.1.10', 38908) 
+2023-01-02 22:31:16 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.18 
+2023-01-02 22:31:16 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-02 22:31:17 PYTHON: Bashlite Client was killed 
+2023-01-02 22:31:33 PYTHON: The change to the IP 192.168.1.95 worked. 
+
+ 
+2023-01-02 22:32:12 PYTHON: Start listening to deployer Server  
+2023-01-02 22:43:26 PYTHON: Start listening to deployer Server  
+2023-01-02 22:44:32 PYTHON: Connected to ('192.168.1.10', 38258) 
+2023-01-02 22:44:32 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.58 
+2023-01-02 22:44:32 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-02 22:44:32 PYTHON: Bashlite Client was killed 
+2023-01-02 22:44:48 PYTHON: The change to the IP 192.168.1.23 worked. 
+
+ 
+2023-01-02 22:45:17 PYTHON: Start listening to deployer Server  
+2023-01-02 22:45:42 PYTHON: Connected to ('192.168.1.10', 42322) 
+2023-01-02 22:45:42 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.57 
+2023-01-02 22:45:42 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-02 22:45:42 PYTHON: Bashlite Client was killed 
+2023-01-02 22:45:58 PYTHON: The change to the IP 192.168.1.95 worked. 
+
+ 
+2023-01-02 22:46:27 PYTHON: Start listening to deployer Server  
+2023-01-02 22:46:52 PYTHON: Connected to ('192.168.1.10', 38754) 
+2023-01-02 22:46:52 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.16 
+2023-01-02 22:46:52 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-02 22:46:52 PYTHON: Bashlite Client was killed 
+2023-01-02 22:47:08 PYTHON: The change to the IP 192.168.1.23 worked. 
+
+ 
+2023-01-02 22:47:37 PYTHON: Start listening to deployer Server  
+2023-01-02 22:48:02 PYTHON: Connected to ('192.168.1.10', 48460) 
+2023-01-02 22:48:02 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.36 
+2023-01-02 22:48:02 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-02 22:48:02 PYTHON: Bashlite Client was killed 
+2023-01-02 22:48:18 PYTHON: The change to the IP 192.168.1.95 worked. 
+
+ 
+2023-01-02 22:49:55 PYTHON: Start listening to deployer Server  
+2023-01-02 22:50:22 PYTHON: Connected to ('192.168.1.10', 48346) 
+2023-01-02 22:50:22 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.87 
+2023-01-02 22:50:22 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-02 22:50:22 PYTHON: Bashlite Client was killed 
+2023-01-02 22:51:17 PYTHON: Start listening to deployer Server  
+2023-01-03 00:32:30 PYTHON: Start listening to deployer Server  
+2023-01-03 00:37:17 PYTHON: Connected to ('192.168.1.10', 49148) 
+2023-01-03 00:37:17 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.4 
+2023-01-03 00:37:17 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 00:37:17 PYTHON: Bashlite Client was killed 
+2023-01-03 00:37:34 PYTHON: The change to the IP 192.168.1.95 worked. 
+
+ 
+2023-01-03 00:38:03 PYTHON: Start listening to deployer Server  
+2023-01-03 01:04:54 PYTHON: Start listening to deployer Server  
+2023-01-03 01:07:21 PYTHON: Connected to ('192.168.1.10', 38322) 
+2023-01-03 01:07:21 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.72 
+2023-01-03 01:07:21 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 01:07:21 PYTHON: Bashlite Client was killed 
+2023-01-03 01:07:37 PYTHON: The change to the IP 192.168.1.23 worked. 
+
+ 
+2023-01-03 01:08:06 PYTHON: Start listening to deployer Server  
+2023-01-03 01:11:54 PYTHON: Connected to ('192.168.1.10', 54388) 
+2023-01-03 01:11:54 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.79 
+2023-01-03 01:11:54 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 01:11:54 PYTHON: Bashlite Client was killed 
+2023-01-03 01:12:10 PYTHON: The change to the IP 192.168.1.95 worked. 
+
+ 
+2023-01-03 01:12:39 PYTHON: Start listening to deployer Server  
+2023-01-03 01:13:59 PYTHON: Connected to ('192.168.1.10', 37006) 
+2023-01-03 01:13:59 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.69 
+2023-01-03 01:13:59 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 01:13:59 PYTHON: Bashlite Client was killed 
+2023-01-03 01:14:15 PYTHON: The change to the IP 192.168.1.23 worked. 
+
+ 
+2023-01-03 01:14:45 PYTHON: Start listening to deployer Server  
+2023-01-03 01:16:12 PYTHON: Connected to ('192.168.1.10', 53280) 
+2023-01-03 01:16:12 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.9 
+2023-01-03 01:16:12 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 01:16:12 PYTHON: Bashlite Client was killed 
+2023-01-03 01:16:28 PYTHON: The change to the IP 192.168.1.95 worked. 
+
+ 
+2023-01-03 01:16:58 PYTHON: Start listening to deployer Server  
+2023-01-03 01:18:29 PYTHON: Connected to ('192.168.1.10', 34322) 
+2023-01-03 01:18:29 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.31 
+2023-01-03 01:18:29 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 01:18:30 PYTHON: Bashlite Client was killed 
+2023-01-03 01:18:46 PYTHON: The change to the IP 192.168.1.23 worked. 
+
+ 
+2023-01-03 01:19:15 PYTHON: Start listening to deployer Server  
+2023-01-03 01:20:34 PYTHON: Connected to ('192.168.1.10', 53338) 
+2023-01-03 01:20:34 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.57 
+2023-01-03 01:20:34 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 01:20:34 PYTHON: Bashlite Client was killed 
+2023-01-03 01:20:50 PYTHON: The change to the IP 192.168.1.95 worked. 
+
+ 
+2023-01-03 01:21:19 PYTHON: Start listening to deployer Server  
+2023-01-03 01:24:53 PYTHON: Connected to ('192.168.1.10', 44058) 
+2023-01-03 01:24:53 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.36 
+2023-01-03 01:24:53 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 01:24:53 PYTHON: Bashlite Client was killed 
+2023-01-03 01:25:09 PYTHON: The change to the IP 192.168.1.23 worked. 
+
+ 
+2023-01-03 01:25:38 PYTHON: Start listening to deployer Server  
+2023-01-03 01:27:03 PYTHON: Connected to ('192.168.1.10', 47786) 
+2023-01-03 01:27:03 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.3 
+2023-01-03 01:27:03 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 01:27:03 PYTHON: Bashlite Client was killed 
+2023-01-03 01:27:19 PYTHON: The change to the IP 192.168.1.95 worked. 
+
+ 
+2023-01-03 01:27:48 PYTHON: Start listening to deployer Server  
+2023-01-03 01:29:15 PYTHON: Connected to ('192.168.1.10', 51466) 
+2023-01-03 01:29:15 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.18 
+2023-01-03 01:29:15 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-03 01:29:15 PYTHON: Bashlite Client was killed 
+2023-01-03 01:29:31 PYTHON: The change to the IP 192.168.1.23 worked. 
+
+ 
+2023-01-05 09:55:17 PYTHON: Start listening to deployer Server  
+2023-01-05 09:57:29 PYTHON: Connected to ('192.168.1.10', 58406) 
+2023-01-05 09:57:29 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.73 
+2023-01-05 09:57:29 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-05 09:57:29 PYTHON: Bashlite Client was killed 
+2023-01-05 09:57:45 PYTHON: The change to the IP 192.168.1.95 worked. 
+
+ 
+2023-01-05 09:58:14 PYTHON: Start listening to deployer Server  
+2023-01-05 10:01:50 PYTHON: Connected to ('192.168.1.10', 47530) 
+2023-01-05 10:01:50 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.33 
+2023-01-05 10:01:50 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-05 10:01:50 PYTHON: Bashlite Client was killed 
+2023-01-05 10:02:06 PYTHON: The change to the IP 192.168.1.23 worked. 
+
+ 
+2023-01-05 10:02:36 PYTHON: Start listening to deployer Server  
+2023-01-05 10:03:55 PYTHON: Connected to ('192.168.1.10', 35742) 
+2023-01-05 10:03:55 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.40 
+2023-01-05 10:03:55 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-05 10:03:55 PYTHON: Bashlite Client was killed 
+2023-01-05 10:04:11 PYTHON: The change to the IP 192.168.1.95 worked. 
+
+ 
+2023-01-05 10:04:40 PYTHON: Start listening to deployer Server  
+2023-01-05 10:06:21 PYTHON: Connected to ('192.168.1.10', 56702) 
+2023-01-05 10:06:21 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.3 
+2023-01-05 10:06:21 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-05 10:06:21 PYTHON: Bashlite Client was killed 
+2023-01-05 10:06:38 PYTHON: The change to the IP 192.168.1.23 worked. 
+
+ 
+2023-01-05 10:07:07 PYTHON: Start listening to deployer Server  
+2023-01-05 10:10:29 PYTHON: Connected to ('192.168.1.10', 44668) 
+2023-01-05 10:10:29 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.90 
+2023-01-05 10:10:29 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-05 10:10:29 PYTHON: Bashlite Client was killed 
+2023-01-05 10:10:45 PYTHON: The change to the IP 192.168.1.95 worked. 
+
+ 
+2023-01-05 10:11:14 PYTHON: Start listening to deployer Server  
+2023-01-05 10:12:39 PYTHON: Connected to ('192.168.1.10', 60648) 
+2023-01-05 10:12:39 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.20 
+2023-01-05 10:12:39 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-05 10:12:39 PYTHON: Bashlite Client was killed 
+2023-01-05 10:12:56 PYTHON: The change to the IP 192.168.1.23 worked. 
+
+ 
+2023-01-05 10:13:25 PYTHON: Start listening to deployer Server  
+2023-01-05 10:14:45 PYTHON: Connected to ('192.168.1.10', 41768) 
+2023-01-05 10:14:45 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.66 
+2023-01-05 10:14:45 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-05 10:14:45 PYTHON: Bashlite Client was killed 
+2023-01-05 10:15:01 PYTHON: The change to the IP 192.168.1.95 worked. 
+
+ 
+2023-01-05 10:15:30 PYTHON: Start listening to deployer Server  
+2023-01-05 10:17:06 PYTHON: Connected to ('192.168.1.10', 36752) 
+2023-01-05 10:17:06 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.16 
+2023-01-05 10:17:06 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-05 10:17:06 PYTHON: Bashlite Client was killed 
+2023-01-05 10:17:23 PYTHON: The change to the IP 192.168.1.23 worked. 
+
+ 
+2023-01-05 10:17:51 PYTHON: Start listening to deployer Server  
+2023-01-05 10:19:10 PYTHON: Connected to ('192.168.1.10', 41484) 
+2023-01-05 10:19:10 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.69 
+2023-01-05 10:19:10 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-05 10:19:10 PYTHON: Bashlite Client was killed 
+2023-01-05 10:19:27 PYTHON: The change to the IP 192.168.1.95 worked. 
+
+ 
+2023-01-05 10:19:56 PYTHON: Start listening to deployer Server  
+2023-01-05 10:21:22 PYTHON: Connected to ('192.168.1.10', 44708) 
+2023-01-05 10:21:22 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.87 
+2023-01-05 10:21:22 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-05 10:21:22 PYTHON: Bashlite Client was killed 
+2023-01-05 10:21:39 PYTHON: The change to the IP 192.168.1.23 worked. 
+
+ 
+2023-01-05 10:22:08 PYTHON: Start listening to deployer Server  
+2023-01-05 10:23:29 PYTHON: Connected to ('192.168.1.10', 34104) 
+2023-01-05 10:23:29 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.74 
+2023-01-05 10:23:29 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-05 10:23:29 PYTHON: Bashlite Client was killed 
+2023-01-05 10:23:45 PYTHON: The change to the IP 192.168.1.95 worked. 
+
+ 
+2023-01-05 10:24:15 PYTHON: Start listening to deployer Server  
+2023-01-05 10:25:46 PYTHON: Connected to ('192.168.1.10', 60544) 
+2023-01-05 10:25:46 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.66 
+2023-01-05 10:25:46 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-05 10:25:46 PYTHON: Bashlite Client was killed 
+2023-01-05 10:26:02 PYTHON: The change to the IP 192.168.1.23 worked. 
+
+ 
+2023-01-05 10:26:31 PYTHON: Start listening to deployer Server  
+2023-01-05 10:27:49 PYTHON: Connected to ('192.168.1.10', 43104) 
+2023-01-05 10:27:49 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.69 
+2023-01-05 10:27:49 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-05 10:27:49 PYTHON: Bashlite Client was killed 
+2023-01-05 10:28:06 PYTHON: The change to the IP 192.168.1.95 worked. 
+
+ 
+2023-01-05 10:28:35 PYTHON: Start listening to deployer Server  
+2023-01-05 10:29:59 PYTHON: Connected to ('192.168.1.10', 60550) 
+2023-01-05 10:29:59 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.21 
+2023-01-05 10:29:59 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-05 10:30:00 PYTHON: Bashlite Client was killed 
+2023-01-05 10:30:16 PYTHON: The change to the IP 192.168.1.23 worked. 
+
+ 
+2023-01-05 10:30:45 PYTHON: Start listening to deployer Server  
+2023-01-05 10:32:11 PYTHON: Connected to ('192.168.1.10', 49942) 
+2023-01-05 10:32:11 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.80 
+2023-01-05 10:32:11 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-05 10:32:11 PYTHON: Bashlite Client was killed 
+2023-01-05 10:32:27 PYTHON: The change to the IP 192.168.1.95 worked. 
+
+ 
+2023-01-05 10:32:56 PYTHON: Start listening to deployer Server  
+2023-01-05 10:34:20 PYTHON: Connected to ('192.168.1.10', 51844) 
+2023-01-05 10:34:20 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.14 
+2023-01-05 10:34:20 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-05 10:34:20 PYTHON: Bashlite Client was killed 
+2023-01-05 10:34:37 PYTHON: The change to the IP 192.168.1.23 worked. 
+
+ 
+2023-01-05 10:35:06 PYTHON: Start listening to deployer Server  
+2023-01-05 10:36:26 PYTHON: Connected to ('192.168.1.10', 56650) 
+2023-01-05 10:36:26 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.32 
+2023-01-05 10:36:26 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-05 10:36:26 PYTHON: Bashlite Client was killed 
+2023-01-05 10:36:42 PYTHON: The change to the IP 192.168.1.95 worked. 
+
+ 
+2023-01-05 10:37:11 PYTHON: Start listening to deployer Server  
+2023-01-05 10:38:42 PYTHON: Connected to ('192.168.1.10', 47446) 
+2023-01-05 10:38:42 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.84 
+2023-01-05 10:38:42 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-05 10:38:42 PYTHON: Bashlite Client was killed 
+2023-01-10 20:42:58 PYTHON: Start listening to deployer Server  
+2023-01-10 20:44:05 PYTHON: Connected to ('192.168.1.10', 41752) 
+2023-01-10 20:44:05 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 20:44:05 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 20:44:05 PYTHON: Trying to kill the telnet process 
+2023-01-10 20:44:14 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 20:44:14 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 20:44:24 PYTHON: The port change was initiated. 
+2023-01-10 20:44:24 PYTHON: The changed port was found in services 
+2023-01-10 20:44:24 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 20:44:24 PYTHON: Socket closed 
+2023-01-10 20-44-24 SHELL: Sleeping for 35 seconds
+2023-01-10 20:44:53 PYTHON: Start listening to deployer Server  
+2023-01-10 20-45-24 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 20:46:15 PYTHON: Connected to ('192.168.1.10', 59666) 
+2023-01-10 20:46:15 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 20:46:15 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 20:46:15 PYTHON: Trying to kill the telnet process 
+2023-01-10 20:46:25 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 20:46:25 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 20:46:34 PYTHON: The port change was initiated. 
+2023-01-10 20:46:34 PYTHON: The changed port was found in services 
+2023-01-10 20:46:34 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 20:46:34 PYTHON: Socket closed 
+2023-01-10 20-46-34 SHELL: Sleeping for 35 seconds
+2023-01-10 20:47:03 PYTHON: Start listening to deployer Server  
+2023-01-10 20-47-35 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 20:48:25 PYTHON: Connected to ('192.168.1.10', 47782) 
+2023-01-10 20:48:25 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 20:48:25 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 20:48:25 PYTHON: Trying to kill the telnet process 
+2023-01-10 20:48:34 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 20:48:34 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 20:48:44 PYTHON: The port change was initiated. 
+2023-01-10 20:48:44 PYTHON: The changed port was found in services 
+2023-01-10 20:48:44 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 20:48:44 PYTHON: Socket closed 
+2023-01-10 20-48-44 SHELL: Sleeping for 35 seconds
+2023-01-10 20:49:13 PYTHON: Start listening to deployer Server  
+2023-01-10 20-49-44 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 20:50:35 PYTHON: Connected to ('192.168.1.10', 52220) 
+2023-01-10 20:50:35 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 20:50:35 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 20:50:35 PYTHON: Trying to kill the telnet process 
+2023-01-10 20:50:44 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 20:50:44 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 20:50:53 PYTHON: The port change was initiated. 
+2023-01-10 20:50:53 PYTHON: The changed port was found in services 
+2023-01-10 20:50:53 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 20:50:53 PYTHON: Socket closed 
+2023-01-10 20-50-54 SHELL: Sleeping for 35 seconds
+2023-01-10 20:51:23 PYTHON: Start listening to deployer Server  
+2023-01-10 20-51-54 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 20:52:45 PYTHON: Connected to ('192.168.1.10', 53326) 
+2023-01-10 20:52:45 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 20:52:45 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 20:52:45 PYTHON: Trying to kill the telnet process 
+2023-01-10 20:52:54 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 20:52:54 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 20:53:03 PYTHON: The port change was initiated. 
+2023-01-10 20:53:04 PYTHON: The changed port was found in services 
+2023-01-10 20:53:04 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 20:53:04 PYTHON: Socket closed 
+2023-01-10 20-53-04 SHELL: Sleeping for 35 seconds
+2023-01-10 20:53:33 PYTHON: Start listening to deployer Server  
+2023-01-10 20-54-04 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 20:54:55 PYTHON: Connected to ('192.168.1.10', 47108) 
+2023-01-10 20:54:55 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 20:54:55 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 20:54:55 PYTHON: Trying to kill the telnet process 
+2023-01-10 20:55:04 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 20:55:04 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 20:55:14 PYTHON: The port change was initiated. 
+2023-01-10 20:55:14 PYTHON: The changed port was found in services 
+2023-01-10 20:55:14 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 20:55:14 PYTHON: Socket closed 
+2023-01-10 20-55-14 SHELL: Sleeping for 35 seconds
+2023-01-10 20:55:43 PYTHON: Start listening to deployer Server  
+2023-01-10 20-56-14 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 20:57:05 PYTHON: Connected to ('192.168.1.10', 54204) 
+2023-01-10 20:57:05 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 20:57:05 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 20:57:05 PYTHON: Trying to kill the telnet process 
+2023-01-10 20:57:14 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 20:57:14 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 20:57:24 PYTHON: The port change was initiated. 
+2023-01-10 20:57:24 PYTHON: The changed port was found in services 
+2023-01-10 20:57:24 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 20:57:24 PYTHON: Socket closed 
+2023-01-10 20-57-24 SHELL: Sleeping for 35 seconds
+2023-01-10 20:57:53 PYTHON: Start listening to deployer Server  
+2023-01-10 20-58-24 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 20:59:15 PYTHON: Connected to ('192.168.1.10', 56158) 
+2023-01-10 20:59:15 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 20:59:15 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 20:59:15 PYTHON: Trying to kill the telnet process 
+2023-01-10 20:59:25 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 20:59:25 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 20:59:34 PYTHON: The port change was initiated. 
+2023-01-10 20:59:34 PYTHON: The changed port was found in services 
+2023-01-10 20:59:34 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 20:59:34 PYTHON: Socket closed 
+2023-01-10 20-59-34 SHELL: Sleeping for 35 seconds
+2023-01-10 21:00:03 PYTHON: Start listening to deployer Server  
+2023-01-10 21-00-35 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 21:01:25 PYTHON: Connected to ('192.168.1.10', 44882) 
+2023-01-10 21:01:25 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 21:01:25 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 21:01:25 PYTHON: Trying to kill the telnet process 
+2023-01-10 21:01:34 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 21:01:34 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 21:01:44 PYTHON: The port change was initiated. 
+2023-01-10 21:01:44 PYTHON: The changed port was found in services 
+2023-01-10 21:01:44 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 21:01:44 PYTHON: Socket closed 
+2023-01-10 21-01-44 SHELL: Sleeping for 35 seconds
+2023-01-10 21:02:13 PYTHON: Start listening to deployer Server  
+2023-01-10 21-02-44 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 21:03:35 PYTHON: Connected to ('192.168.1.10', 54036) 
+2023-01-10 21:03:35 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 21:03:35 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 21:03:35 PYTHON: Trying to kill the telnet process 
+2023-01-10 21:03:44 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 21:03:44 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 21:03:53 PYTHON: The port change was initiated. 
+2023-01-10 21:03:54 PYTHON: The changed port was found in services 
+2023-01-10 21:03:54 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 21:03:54 PYTHON: Socket closed 
+2023-01-10 21-03-54 SHELL: Sleeping for 35 seconds
+2023-01-10 21:04:23 PYTHON: Start listening to deployer Server  
+2023-01-10 21-04-54 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 21:05:45 PYTHON: Connected to ('192.168.1.10', 36306) 
+2023-01-10 21:05:45 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 21:05:45 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 21:05:45 PYTHON: Trying to kill the telnet process 
+2023-01-10 21:05:54 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 21:05:54 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 21:06:04 PYTHON: The port change was initiated. 
+2023-01-10 21:06:04 PYTHON: The changed port was found in services 
+2023-01-10 21:06:04 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 21:06:04 PYTHON: Socket closed 
+2023-01-10 21-06-04 SHELL: Sleeping for 35 seconds
+2023-01-10 21:06:33 PYTHON: Start listening to deployer Server  
+2023-01-10 21-07-04 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 21:07:55 PYTHON: Connected to ('192.168.1.10', 43428) 
+2023-01-10 21:07:55 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 21:07:55 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 21:07:55 PYTHON: Trying to kill the telnet process 
+2023-01-10 21:08:04 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 21:08:04 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 21:08:14 PYTHON: The port change was initiated. 
+2023-01-10 21:08:14 PYTHON: The changed port was found in services 
+2023-01-10 21:08:14 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 21:08:14 PYTHON: Socket closed 
+2023-01-10 21-08-14 SHELL: Sleeping for 35 seconds
+2023-01-10 21:08:43 PYTHON: Start listening to deployer Server  
+2023-01-10 21-09-14 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 21:10:05 PYTHON: Connected to ('192.168.1.10', 60456) 
+2023-01-10 21:10:05 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 21:10:05 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 21:10:05 PYTHON: Trying to kill the telnet process 
+2023-01-10 21:10:14 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 21:10:14 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 21:10:24 PYTHON: The port change was initiated. 
+2023-01-10 21:10:24 PYTHON: The changed port was found in services 
+2023-01-10 21:10:24 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 21:10:24 PYTHON: Socket closed 
+2023-01-10 21-10-24 SHELL: Sleeping for 35 seconds
+2023-01-10 21:10:53 PYTHON: Start listening to deployer Server  
+2023-01-10 21-11-24 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 21:12:15 PYTHON: Connected to ('192.168.1.10', 45574) 
+2023-01-10 21:12:15 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 21:12:15 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 21:12:15 PYTHON: Trying to kill the telnet process 
+2023-01-10 21:12:24 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 21:12:24 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 21:12:34 PYTHON: The port change was initiated. 
+2023-01-10 21:12:34 PYTHON: The changed port was found in services 
+2023-01-10 21:12:34 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 21:12:34 PYTHON: Socket closed 
+2023-01-10 21-12-34 SHELL: Sleeping for 35 seconds
+2023-01-10 21:13:03 PYTHON: Start listening to deployer Server  
+2023-01-10 21-13-34 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 21:14:25 PYTHON: Connected to ('192.168.1.10', 41036) 
+2023-01-10 21:14:25 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 21:14:25 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 21:14:25 PYTHON: Trying to kill the telnet process 
+2023-01-10 21:14:34 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 21:14:34 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 21:14:44 PYTHON: The port change was initiated. 
+2023-01-10 21:14:44 PYTHON: The changed port was found in services 
+2023-01-10 21:14:44 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 21:14:44 PYTHON: Socket closed 
+2023-01-10 21-14-44 SHELL: Sleeping for 35 seconds
+2023-01-10 21:15:13 PYTHON: Start listening to deployer Server  
+2023-01-10 21-15-44 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 21:16:35 PYTHON: Connected to ('192.168.1.10', 56880) 
+2023-01-10 21:16:35 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 21:16:35 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 21:16:35 PYTHON: Trying to kill the telnet process 
+2023-01-10 21:16:44 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 21:16:44 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 21:16:54 PYTHON: The port change was initiated. 
+2023-01-10 21:16:54 PYTHON: The changed port was found in services 
+2023-01-10 21:16:54 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 21:16:54 PYTHON: Socket closed 
+2023-01-10 21-16-54 SHELL: Sleeping for 35 seconds
+2023-01-10 21:17:23 PYTHON: Start listening to deployer Server  
+2023-01-10 21-17-54 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 21:18:45 PYTHON: Connected to ('192.168.1.10', 49260) 
+2023-01-10 21:18:45 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 21:18:45 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 21:18:45 PYTHON: Trying to kill the telnet process 
+2023-01-10 21:18:54 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 21:18:54 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 21:19:01 PYTHON: The port change was initiated. 
+2023-01-10 21:19:01 PYTHON: The changed port was found in services 
+2023-01-10 21:19:01 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 21:19:01 PYTHON: Socket closed 
+2023-01-10 21-19-01 SHELL: Sleeping for 35 seconds
+2023-01-10 21:19:30 PYTHON: Start listening to deployer Server  
+2023-01-10 21-20-01 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 21:20:55 PYTHON: Connected to ('192.168.1.10', 47452) 
+2023-01-10 21:20:55 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 21:20:55 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 21:20:55 PYTHON: Trying to kill the telnet process 
+2023-01-10 21:21:03 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 21:21:03 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 21:21:12 PYTHON: The port change was initiated. 
+2023-01-10 21:21:12 PYTHON: The changed port was found in services 
+2023-01-10 21:21:12 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 21:21:12 PYTHON: Socket closed 
+2023-01-10 21-21-12 SHELL: Sleeping for 35 seconds
+2023-01-10 21:21:41 PYTHON: Start listening to deployer Server  
+2023-01-10 21-22-13 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 21:23:05 PYTHON: Connected to ('192.168.1.10', 42832) 
+2023-01-10 21:23:05 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 21:23:05 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 21:23:05 PYTHON: Trying to kill the telnet process 
+2023-01-10 21:23:14 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 21:23:14 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 21:23:24 PYTHON: The port change was initiated. 
+2023-01-10 21:23:24 PYTHON: The changed port was found in services 
+2023-01-10 21:23:24 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 21:23:24 PYTHON: Socket closed 
+2023-01-10 21-23-24 SHELL: Sleeping for 35 seconds
+2023-01-10 21:23:53 PYTHON: Start listening to deployer Server  
+2023-01-10 21-24-24 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 21:25:15 PYTHON: Connected to ('192.168.1.10', 46914) 
+2023-01-10 21:25:15 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 21:25:15 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 21:25:15 PYTHON: Trying to kill the telnet process 
+2023-01-10 21:25:24 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 21:25:24 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 21:25:34 PYTHON: The port change was initiated. 
+2023-01-10 21:25:34 PYTHON: The changed port was found in services 
+2023-01-10 21:25:34 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 21:25:34 PYTHON: Socket closed 
+2023-01-10 21-25-34 SHELL: Sleeping for 35 seconds
+2023-01-10 21:26:03 PYTHON: Start listening to deployer Server  
+2023-01-10 21-26-34 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 21:27:25 PYTHON: Connected to ('192.168.1.10', 50218) 
+2023-01-10 21:27:25 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 21:27:25 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 21:27:25 PYTHON: Trying to kill the telnet process 
+2023-01-10 21:27:34 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 21:27:34 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 21:27:44 PYTHON: The port change was initiated. 
+2023-01-10 21:27:44 PYTHON: The changed port was found in services 
+2023-01-10 21:27:44 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 21:27:44 PYTHON: Socket closed 
+2023-01-10 21-27-44 SHELL: Sleeping for port:9port:11 seconds
+2023-01-10 21-28-09 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 21:28:12 PYTHON: Start listening to deployer Server  
+2023-01-10 22:29:00 PYTHON: Start listening to deployer Server  
+2023-01-10 22:32:48 PYTHON: Connected to ('192.168.1.10', 34548) 
+2023-01-10 22:32:48 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 22:32:48 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 22:32:48 PYTHON: Trying to kill the telnet process 
+2023-01-10 22:32:56 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 22:32:56 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 22:33:03 PYTHON: The port change was initiated. 
+2023-01-10 22:33:03 PYTHON: The changed port was found in services 
+2023-01-10 22:33:03 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 22:33:03 PYTHON: Socket closed 
+2023-01-10 22-33-03 SHELL: Sleeping for 35 seconds
+2023-01-10 22:33:32 PYTHON: Start listening to deployer Server  
+2023-01-10 22-34-03 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 22:34:58 PYTHON: Connected to ('192.168.1.10', 34096) 
+2023-01-10 22:34:58 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 22:34:58 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 22:34:58 PYTHON: Trying to kill the telnet process 
+2023-01-10 22:35:07 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 22:35:07 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 22:35:14 PYTHON: The port change was initiated. 
+2023-01-10 22:35:14 PYTHON: The changed port was found in services 
+2023-01-10 22:35:14 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 22:35:14 PYTHON: Socket closed 
+2023-01-10 22-35-14 SHELL: Sleeping for 35 seconds
+2023-01-10 22:35:43 PYTHON: Start listening to deployer Server  
+2023-01-10 22-36-14 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 22:37:08 PYTHON: Connected to ('192.168.1.10', 39316) 
+2023-01-10 22:37:08 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 22:37:08 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 22:37:08 PYTHON: Trying to kill the telnet process 
+2023-01-10 22:37:17 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 22:37:17 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 22:37:24 PYTHON: The port change was initiated. 
+2023-01-10 22:37:24 PYTHON: The changed port was found in services 
+2023-01-10 22:37:24 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 22:37:24 PYTHON: Socket closed 
+2023-01-10 22-37-24 SHELL: Sleeping for 35 seconds
+2023-01-10 22:37:53 PYTHON: Start listening to deployer Server  
+2023-01-10 22-38-24 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 22:39:18 PYTHON: Connected to ('192.168.1.10', 40944) 
+2023-01-10 22:39:18 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 22:39:18 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 22:39:18 PYTHON: Trying to kill the telnet process 
+2023-01-10 22:39:28 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 22:39:28 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 22:39:34 PYTHON: The port change was initiated. 
+2023-01-10 22:39:34 PYTHON: The changed port was found in services 
+2023-01-10 22:39:34 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 22:39:34 PYTHON: Socket closed 
+2023-01-10 22-39-34 SHELL: Sleeping for 35 seconds
+2023-01-10 22:40:03 PYTHON: Start listening to deployer Server  
+2023-01-10 22-40-34 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 22:41:28 PYTHON: Connected to ('192.168.1.10', 33402) 
+2023-01-10 22:41:28 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 22:41:28 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 22:41:28 PYTHON: Trying to kill the telnet process 
+2023-01-10 22:41:38 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 22:41:38 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 22:41:47 PYTHON: The port change was initiated. 
+2023-01-10 22:41:47 PYTHON: The changed port was found in services 
+2023-01-10 22:41:47 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 22:41:47 PYTHON: Socket closed 
+2023-01-10 22-41-47 SHELL: Sleeping for 35 seconds
+2023-01-10 22:42:16 PYTHON: Start listening to deployer Server  
+2023-01-10 22-42-48 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 22:43:38 PYTHON: Connected to ('192.168.1.10', 39602) 
+2023-01-10 22:43:38 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 22:43:38 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 22:43:38 PYTHON: Trying to kill the telnet process 
+2023-01-10 22:43:48 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 22:43:48 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 22:43:54 PYTHON: The port change was initiated. 
+2023-01-10 22:43:54 PYTHON: The changed port was found in services 
+2023-01-10 22:43:54 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 22:43:54 PYTHON: Socket closed 
+2023-01-10 22-43-54 SHELL: Sleeping for 35 seconds
+2023-01-10 22:44:23 PYTHON: Start listening to deployer Server  
+2023-01-10 22-44-54 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 22:45:48 PYTHON: Connected to ('192.168.1.10', 54968) 
+2023-01-10 22:45:48 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 22:45:48 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 22:45:48 PYTHON: Trying to kill the telnet process 
+2023-01-10 22:45:57 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 22:45:57 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 22:46:04 PYTHON: The port change was initiated. 
+2023-01-10 22:46:04 PYTHON: The changed port was found in services 
+2023-01-10 22:46:04 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 22:46:04 PYTHON: Socket closed 
+2023-01-10 22-46-04 SHELL: Sleeping for 35 seconds
+2023-01-10 22:46:33 PYTHON: Start listening to deployer Server  
+2023-01-10 22-47-04 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 22:47:58 PYTHON: Connected to ('192.168.1.10', 46380) 
+2023-01-10 22:47:58 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 22:47:58 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 22:47:58 PYTHON: Trying to kill the telnet process 
+2023-01-10 22:48:06 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 22:48:06 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 22:48:16 PYTHON: The port change was initiated. 
+2023-01-10 22:48:16 PYTHON: The changed port was found in services 
+2023-01-10 22:48:16 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 22:48:16 PYTHON: Socket closed 
+2023-01-10 22-48-16 SHELL: Sleeping for 35 seconds
+2023-01-10 22:48:45 PYTHON: Start listening to deployer Server  
+2023-01-10 22-49-16 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 22:50:08 PYTHON: Connected to ('192.168.1.10', 55398) 
+2023-01-10 22:50:08 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 22:50:08 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 22:50:08 PYTHON: Trying to kill the telnet process 
+2023-01-10 22:50:17 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 22:50:17 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 22:50:24 PYTHON: The port change was initiated. 
+2023-01-10 22:50:24 PYTHON: The changed port was found in services 
+2023-01-10 22:50:24 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 22:50:24 PYTHON: Socket closed 
+2023-01-10 22-50-24 SHELL: Sleeping for 35 seconds
+2023-01-10 22:50:53 PYTHON: Start listening to deployer Server  
+2023-01-10 22-51-24 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 22:52:18 PYTHON: Connected to ('192.168.1.10', 55776) 
+2023-01-10 22:52:18 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 22:52:18 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 22:52:18 PYTHON: Trying to kill the telnet process 
+2023-01-10 22:52:28 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 22:52:28 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 22:52:37 PYTHON: The port change was initiated. 
+2023-01-10 22:52:37 PYTHON: The changed port was found in services 
+2023-01-10 22:52:37 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 22:52:37 PYTHON: Socket closed 
+2023-01-10 22-52-37 SHELL: Sleeping for 35 seconds
+2023-01-10 22:53:06 PYTHON: Start listening to deployer Server  
+2023-01-10 22-53-37 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 22:54:28 PYTHON: Connected to ('192.168.1.10', 47532) 
+2023-01-10 22:54:28 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 22:54:28 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 22:54:28 PYTHON: Trying to kill the telnet process 
+2023-01-10 22:54:38 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 22:54:38 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 22:54:44 PYTHON: The port change was initiated. 
+2023-01-10 22:54:44 PYTHON: The changed port was found in services 
+2023-01-10 22:54:44 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 22:54:44 PYTHON: Socket closed 
+2023-01-10 22-54-44 SHELL: Sleeping for 35 seconds
+2023-01-10 22:55:13 PYTHON: Start listening to deployer Server  
+2023-01-10 22-55-44 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 23:02:20 PYTHON: Start listening to deployer Server  
+2023-01-10 23:03:29 PYTHON: Connected to ('192.168.1.10', 49060) 
+2023-01-10 23:03:29 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 23:03:29 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 23:03:29 PYTHON: Trying to kill the telnet process 
+2023-01-10 23:03:38 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 23:03:38 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 23:03:45 PYTHON: The port change was initiated. 
+2023-01-10 23:03:45 PYTHON: The changed port was found in services 
+2023-01-10 23:03:45 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 23-03-45 SHELL: Sleeping for 35 seconds
+2023-01-10 23:03:45 PYTHON: Socket closed 
+2023-01-10 23:04:14 PYTHON: Start listening to deployer Server  
+2023-01-10 23-04-45 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 23:05:39 PYTHON: Connected to ('192.168.1.10', 38180) 
+2023-01-10 23:05:39 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 23:05:39 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 23:05:39 PYTHON: Trying to kill the telnet process 
+2023-01-10 23:05:48 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 23:05:48 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 23:05:55 PYTHON: The port change was initiated. 
+2023-01-10 23:05:55 PYTHON: The changed port was found in services 
+2023-01-10 23:05:55 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 23:05:55 PYTHON: Socket closed 
+2023-01-10 23-05-55 SHELL: Sleeping for 35 seconds
+2023-01-10 23:06:24 PYTHON: Start listening to deployer Server  
+2023-01-10 23-06-55 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 23:07:49 PYTHON: Connected to ('192.168.1.10', 57476) 
+2023-01-10 23:07:49 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 23:07:49 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 23:07:49 PYTHON: Trying to kill the telnet process 
+2023-01-10 23:07:58 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 23:07:58 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 23:08:04 PYTHON: The port change was initiated. 
+2023-01-10 23:08:04 PYTHON: The changed port was found in services 
+2023-01-10 23:08:04 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 23:08:04 PYTHON: Socket closed 
+2023-01-10 23-08-04 SHELL: Sleeping for 35 seconds
+2023-01-10 23:08:34 PYTHON: Start listening to deployer Server  
+2023-01-10 23-09-05 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 23:09:59 PYTHON: Connected to ('192.168.1.10', 48642) 
+2023-01-10 23:09:59 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 23:09:59 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 23:09:59 PYTHON: Trying to kill the telnet process 
+2023-01-10 23:10:08 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 23:10:08 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 23:10:15 PYTHON: The port change was initiated. 
+2023-01-10 23:10:15 PYTHON: The changed port was found in services 
+2023-01-10 23:10:15 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 23:10:15 PYTHON: Socket closed 
+2023-01-10 23-10-15 SHELL: Sleeping for 35 seconds
+2023-01-10 23:10:44 PYTHON: Start listening to deployer Server  
+2023-01-10 23-11-15 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 23:12:09 PYTHON: Connected to ('192.168.1.10', 37268) 
+2023-01-10 23:12:09 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 23:12:09 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 23:12:09 PYTHON: Trying to kill the telnet process 
+2023-01-10 23:12:19 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 23:12:19 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 23:12:28 PYTHON: The port change was initiated. 
+2023-01-10 23:12:28 PYTHON: The changed port was found in services 
+2023-01-10 23:12:28 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 23:12:28 PYTHON: Socket closed 
+2023-01-10 23-12-28 SHELL: Sleeping for 35 seconds
+2023-01-10 23:12:57 PYTHON: Start listening to deployer Server  
+2023-01-10 23-13-29 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 23:14:19 PYTHON: Connected to ('192.168.1.10', 35084) 
+2023-01-10 23:14:19 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 23:14:19 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 23:14:19 PYTHON: Trying to kill the telnet process 
+2023-01-10 23:14:26 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 23:14:26 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 23:14:33 PYTHON: The port change was initiated. 
+2023-01-10 23:14:33 PYTHON: The changed port was found in services 
+2023-01-10 23:14:33 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 23:14:33 PYTHON: Socket closed 
+2023-01-10 23-14-33 SHELL: Sleeping for 35 seconds
+2023-01-10 23:15:02 PYTHON: Start listening to deployer Server  
+2023-01-10 23-15-33 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-10 23:16:29 PYTHON: Connected to ('192.168.1.10', 54834) 
+2023-01-10 23:16:29 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 23:16:29 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 23:16:30 PYTHON: Trying to kill the telnet process 
+2023-01-10 23:16:39 PYTHON: There was something wrong with the telnet process kill. There might not be such a process, so the malware did not yet connect to this device. 
+2023-01-10 23:16:39 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 23:16:45 PYTHON: The port change was initiated. 
+2023-01-10 23:16:45 PYTHON: The changed port was found in services 
+2023-01-10 23:16:45 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-10 23:16:45 PYTHON: Socket closed 
+2023-01-10 23-16-45 SHELL: Sleeping for 35 seconds
+2023-01-10 23:54:23 PYTHON: Start listening to deployer Server  
+2023-01-10 23:55:07 PYTHON: Connected to ('192.168.1.10', 43144) 
+2023-01-10 23:55:07 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-10 23:55:07 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-10 23:55:07 PYTHON: Trying to kill the telnet process 
+2023-01-10 23:55:07 PYTHON: Telnetport was accessible, initiating change 
+2023-01-10 23:57:28 PYTHON: Start listening to deployer Server  
+2023-01-11 00:02:25 PYTHON: Start listening to deployer Server  
+2023-01-11 00:03:18 PYTHON: Connected to ('192.168.1.10', 38798) 
+2023-01-11 00:03:18 PYTHON: An other Machine was infected with malware. Initiating a port change to the received moving Parameter value: 2596 
+2023-01-11 00:03:18 PYTHON: Port 2596 is not yet used on this system. 
+2023-01-11 00:03:18 PYTHON: Trying to kill the telnet process 
+2023-01-11 00:03:18 PYTHON: Telnetport was accessible, initiating change 
+2023-01-11 00:03:27 PYTHON: The port change was initiated. 
+2023-01-11 00:03:27 PYTHON: The changed port was found in services 
+2023-01-11 00:03:27 PYTHON: Telnet is not listening anymore, so this worked 
+2023-01-11 00:03:27 PYTHON: Socket closed 
+2023-01-11 00-03-27 SHELL: Sleeping for 35 seconds
+2023-01-11 00:03:57 PYTHON: Start listening to deployer Server  
+2023-01-11 00-04-28 SHELL: Went from port 2596 back to port 23
+
+
+2023-01-11 00:04:29 PYTHON: Connected to ('192.168.1.10', 52960) 
+2023-01-11 00:04:29 PYTHON: Machine infected with malware. Initiating an IP change to the received moving Parameter value: 192.168.1.29 
+2023-01-11 00:04:29 PYTHON: The connection to change the IP ended. This is good because this would have happened because of the IP change either way.  
+2023-01-11 00:04:29 PYTHON: Bashlite Client was killed 
+2023-01-11 00:04:45 PYTHON: The change to the IP 192.168.1.95 worked. 
+
+ 

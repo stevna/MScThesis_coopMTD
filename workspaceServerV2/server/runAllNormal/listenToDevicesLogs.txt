@@ -1,0 +1,32 @@
+listenToDevices was called
+server: <socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('0.0.0.0', 0)>
+Connected to 192.168.1.25
+The virus was found on IP address:  192.168.1.25
+send called
+this is the message: Virus found 192.168.1.25
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.63
+The virus was found on IP address:  192.168.1.63
+send called
+this is the message: Virus found 192.168.1.63
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.24
+The virus was found on IP address:  192.168.1.24
+send called
+this is the message: Virus found 192.168.1.24
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.9
+The virus was found on IP address:  192.168.1.9
+send called
+this is the message: Virus found 192.168.1.9
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
+Connected to 192.168.1.79
+The virus was found on IP address:  192.168.1.79
+send called
+this is the message: Virus found 192.168.1.79
+b'Got you message! Thank you New IPs are initialized'
+Connection ended
